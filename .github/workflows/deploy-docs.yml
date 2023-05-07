@@ -1,5 +1,5 @@
 
-name: depoly-pages
+name: 部署文档
 
 on:
   push:
@@ -42,5 +42,5 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           # 这是文档部署到的分支名称
-          branch: blog
+          branch: gh-pages
           folder: src/.vuepress/dist
