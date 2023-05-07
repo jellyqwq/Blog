@@ -7,7 +7,7 @@ title: 博客主页
 bgImage: /BL.jpg
 heroText: 果冻の博客
 heroFullScreen: false
-tagline: 看, 是bug
+tagline: 看!是bug
 projects:
   - icon: friend
     name: 浩的博客
