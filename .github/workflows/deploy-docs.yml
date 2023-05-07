@@ -1,5 +1,5 @@
 
-name: 部署文档
+name: deploy-pages
 
 on:
   push:
@@ -8,7 +8,7 @@ on:
       - master
 
 jobs:
-  deploy-gh-pages:
+  build-blog:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -21,6 +21,7 @@ jobs:
       - name: 安装 pnpm
         uses: pnpm/action-setup@v2
         with:
+          version: 6.24.1
           run_install: true
 
 
