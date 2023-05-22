@@ -18,30 +18,27 @@ jobs:
           # 如果你文档需要 Git 子模块，取消注释下一行
           # submodules: true
 
-      - name: 安装 pnpm
-        uses: pnpm/action-setup@v2.2.4
-        with:
-          version: 6.24.1
-          run_install: true
-
-
-      - name: 设置 Node.js
+      - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
+          # 选择要使用的 node 版本
           node-version: 18
+          # 缓存 pnpm 依赖
           cache: pnpm
 
+      # 运行构建脚本
+      - name: Build VuePress site
+        run: pnpm docs:build
 
-      - name: 构建文档
-        env:
-          NODE_OPTIONS: --max_old_space_size=8192
-        run: |-
-          pnpm run docs:build
-          > src/.vuepress/dist/.nojekyll
-
-      - name: 部署文档
-        uses: JamesIves/github-pages-deploy-action@v4
+      # 查看 workflow 的文档来获取更多信息
+      # @see https://github.com/crazy-max/ghaction-github-pages
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v2
         with:
-          # 这是文档部署到的分支名称
-          branch: blog
-          folder: src/.vuepress/dist
+          # 部署到 blog 分支
+          target_branch: blog
+          # 部署目录为 VuePress 的默认输出目录
+          build_dir: docs/.vuepress/dist
+        env:
+          # @see https://docs.github.com/cn/actions/reference/authentication-in-a-workflow#about-the-github_token-secret
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
