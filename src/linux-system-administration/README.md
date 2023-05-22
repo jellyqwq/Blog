@@ -1,13 +1,9 @@
 ---
-title: Linux笔记
+title: Linux 运维
 icon: page
 order: 1
 author: Jelly
 date: 2022-12-15
-category:
-  - Linux
-tag:
-  - Linux
 sticky: false
 star: false
 article: false
