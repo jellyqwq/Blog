@@ -17,6 +17,14 @@ jobs:
           fetch-depth: 0
           # 如果你文档需要 Git 子模块，取消注释下一行
           # submodules: true
+      
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v2
+        with:
+          # 选择要使用的 pnpm 版本
+          version: 7
+          # 使用 pnpm 安装依赖
+          run_install: true
 
       - name: Setup Node.js
         uses: actions/setup-node@v3
