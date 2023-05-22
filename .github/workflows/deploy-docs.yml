@@ -38,7 +38,7 @@ jobs:
       - name: Build VuePress site
         run: |-
            pnpm docs:build
-           > src/.vuepress/dist
+           > src/.vuepress/dist/.nojekyll
 
       # 查看 workflow 的文档来获取更多信息
       # @see https://github.com/crazy-max/ghaction-github-pages
