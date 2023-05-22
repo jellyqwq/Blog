@@ -2,7 +2,7 @@
 title: 域名证书签发
 icon: page
 author: Jelly
-date: 2023-05-08
+date: 2023-05-22
 category:
   - Linux
 tag:
@@ -15,15 +15,15 @@ star: false
 
 给域名上证书签名提高流量的安全性, 也能减少打开网站时提示不安全影响浏览体验, 但是通过常规的方式如通过小马哥家的证书签名有配额限制, 而且销毁了也不减少签发额度.
 
-这个时候就需要用到一些其他的工具, 使用[OneinStack](https://oneinstack.com/install/)可以方便地对服务器的基础服务进行部署, 如nginx, mysql, mongodb...
+这个时候就需要用到一些其他的工具, 使用[OneinStack](https://oneinstack.com/install/)可以方便地对服务器的基础服务进行部署, 如 `nginx`, `mysql`, `mongodb`...
 
-如不熟悉nginx操作就不要修改其默认的安装的nginx的配置文件, 默认的nginx路径可以通过`nginx -t`命令查看, 一般在`/usr/local/nginx`
+如不熟悉nginx操作就不要修改其默认的安装的nginx的配置文件, 默认的nginx路径可以通过 `nginx -t` 命令查看, 一般在 `/usr/local/nginx`
 
 在**OneinStack**目录里找到`vhost.sh`的文件, 这个就是给域名签发证书用的, 它签发的证书有效期只有几个月, 但是它会自动续签, 这点还是比较方便的
 
 在开始证书签发前还需要去该域名的提供商处添加你要解析的域名, 否则签发证书会失败, 添加完后要等待一段时间
 
-在该**OneinStack**目录中执行`./vhost.sh`开始对域名签发证书
+在该**OneinStack**目录中执行 `./vhost.sh` 开始对域名签发证书
 
 运行后会有几个选项, 选择`Use Let's Encrypt to Create SSL Certificate and Key`来开始对域名进行签名
 
