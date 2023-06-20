@@ -1,0 +1,1 @@
+import{_ as e,Y as t,Z as n,a0 as o,a1 as a}from"./framework-c07dc5bc.js";const c={},r=a("p",null,"这是用于存放一些失效的和不会维护的文章。",-1);function s(_,l){return t(),n("div",null,[r,o(" more ")])}const m=e(c,[["render",s],["__file","index.html.vue"]]);export{m as default};
