@@ -14,10 +14,6 @@ sticky: false
 star: false
 ---
 
-...
-
-<!-- more -->
-
 ## 第一种方法
 
 ### 创建mysql

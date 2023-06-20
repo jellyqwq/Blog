@@ -12,9 +12,7 @@ sticky: false
 star: false
 ---
 
-### Hadoop相关命令的使用
-
-<!-- more -->
+## Hadoop相关命令的使用
 
 hadoop系统可继承一定的Linux系统命令, 以命令 `ls` 为例, 在hadoop系统中则需使用 `hadoop dfs -ls`.
 

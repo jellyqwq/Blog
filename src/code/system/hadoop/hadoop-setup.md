@@ -12,10 +12,6 @@ sticky: false
 star: false
 ---
 
-...
-
-<!-- more -->
-
 ### 前言
 本文记录了hadoop集群安装的相应细节, 需要您具备一定的Linux命令常识, 同时, 本文的运行环境为docker centos7, 基于[docker-install-centos7](/code/language/docker/docker-install-centos7.md)
 
