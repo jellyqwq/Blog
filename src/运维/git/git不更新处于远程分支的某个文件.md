@@ -17,12 +17,12 @@ star: false
 
 这个问题可以用git来解决, 在把`docker-compose.yml`模板上传到github上后, 运行**下述代码**可以让git忽略本地对此文件的修改的变化.
 ```bash
-git --update-index --assume-unchanged docker-compose.yml
+git update-index --assume-unchanged docker-compose.yml
 ```
 
 要让git重新跟踪文件变化, 只要将`--assume-unchanged`改成`--no-assume-unchanged`即可
 ```bash
-git --update-index --no-assume-unchanged docker-compose.yml
+git update-index --no-assume-unchanged docker-compose.yml
 ```
 
 # 参考文献
