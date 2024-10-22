@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-x3n3nnut.js";import{o,c as t,f as c,b as n}from"./app-XoEOURcT.js";const r={},s=n("p",null,"这是用于存放一些失效的和不会维护的文章。",-1);function _(a,l){return o(),t("div",null,[s,c(" more ")])}const f=e(r,[["render",_],["__file","index.html.vue"]]);export{f as default};

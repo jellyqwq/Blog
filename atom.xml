@@ -1,0 +1,2509 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://blog.jellyqwq.top/atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
+  <id>https://blog.jellyqwq.top/</id>
+  <title>果冻の博客</title>
+  <subtitle>看!是bug</subtitle>
+  <updated>2024-10-22T12:38:04.458Z</updated>
+  <generator>vuepress-plugin-feed2</generator>
+  <link rel="self" href="https://blog.jellyqwq.top/atom.xml"/>
+  <link rel="alternate" href="https://blog.jellyqwq.top/"/>
+  <category term="数据分析"/>
+  <category term="Network"/>
+  <category term="git"/>
+  <category term="Linux"/>
+  <category term="Game"/>
+  <category term="Hadoop"/>
+  <category term="部署"/>
+  <category term="auto-task"/>
+  <category term="Python"/>
+  <category term="未分类"/>
+  <category term="AI"/>
+  <category term="日常"/>
+  <category term="Docker"/>
+  <category term="Golang"/>
+  <category term="JSON"/>
+  <category term="Batchfile"/>
+  <contributor>
+    <name>Jelly</name>
+  </contributor>
+  <entry>
+    <title type="text">关于跳槽手抓饼可行性的分析报告</title>
+    <id>https://blog.jellyqwq.top/data-analysis/%E5%85%B3%E4%BA%8E%E8%B7%B3%E6%A7%BD%E6%89%8B%E6%8A%93%E9%A5%BC%E5%8F%AF%E8%A1%8C%E6%80%A7%E7%9A%84%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A.html</id>
+    <link href="https://blog.jellyqwq.top/data-analysis/%E5%85%B3%E4%BA%8E%E8%B7%B3%E6%A7%BD%E6%89%8B%E6%8A%93%E9%A5%BC%E5%8F%AF%E8%A1%8C%E6%80%A7%E7%9A%84%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A.html"/>
+    <updated>2024-10-22T12:36:58.000Z</updated>
+    <summary type="html"><![CDATA[<h1> 关于跳槽手抓饼可行性的分析报告</h1>
+<h2> 背景介绍</h2>
+<p>老王表示自己摆摊卖手抓饼比在公司上班的小明挣的10000元挣得多。那么小明要不要跳槽呢？</p>
+<h2> 引言</h2>
+<p>收入水平并不能作为就业的单一决策变量，还有很多隐形变量需要参考。尽管收入水平和生活质量呈现正相关，但该指标可能并不适用于所有人。下面将通过尽可能多的方面来完成对该事件的决策。</p>
+<h2> 成本估算</h2>
+<h3> 初始成本</h3>
+<p>通过在淘宝上的查询，初始成本大概能涵盖如下部分。</p>
+<table>
+<thead>
+<tr>
+<th>购置项</th>
+<th>费用</th>
+<th>购置数量</th>
+<th>备注</th>
+<th>总计</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>车辆</td>
+<td>6488元</td>
+<td>1</td>
+<td>已经进行改装，短期一次性投资</td>
+<td>6488元</td>
+</tr>
+<tr>
+<td>炉具</td>
+<td>268元</td>
+<td>1</td>
+<td>短期一次性投资</td>
+<td>268元</td>
+</tr>
+<tr>
+<td>燃气</td>
+<td>114元</td>
+<td>2</td>
+<td>一月大约两瓶，具体用量和经营状况有关</td>
+<td>228元</td>
+</tr>
+<tr>
+<td>食材</td>
+<td>200元</td>
+<td>1</td>
+<td>一晚上食材费用</td>
+<td>200元</td>
+</tr>
+<tr>
+<td>餐具</td>
+<td>56元</td>
+<td>1</td>
+<td>32元8000个生物可降解塑料袋、<br>24元300张油膜袋子</td>
+<td>56元</td>
+</tr>
+<tr>
+<td>总计</td>
+<td></td>
+<td></td>
+<td></td>
+<td>7240元</td>
+</tr>
+</tbody>
+</table>]]></summary>
+    <content type="html"><![CDATA[<h1> 关于跳槽手抓饼可行性的分析报告</h1>
+<h2> 背景介绍</h2>
+<p>老王表示自己摆摊卖手抓饼比在公司上班的小明挣的10000元挣得多。那么小明要不要跳槽呢？</p>
+<h2> 引言</h2>
+<p>收入水平并不能作为就业的单一决策变量，还有很多隐形变量需要参考。尽管收入水平和生活质量呈现正相关，但该指标可能并不适用于所有人。下面将通过尽可能多的方面来完成对该事件的决策。</p>
+<h2> 成本估算</h2>
+<h3> 初始成本</h3>
+<p>通过在淘宝上的查询，初始成本大概能涵盖如下部分。</p>
+<table>
+<thead>
+<tr>
+<th>购置项</th>
+<th>费用</th>
+<th>购置数量</th>
+<th>备注</th>
+<th>总计</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>车辆</td>
+<td>6488元</td>
+<td>1</td>
+<td>已经进行改装，短期一次性投资</td>
+<td>6488元</td>
+</tr>
+<tr>
+<td>炉具</td>
+<td>268元</td>
+<td>1</td>
+<td>短期一次性投资</td>
+<td>268元</td>
+</tr>
+<tr>
+<td>燃气</td>
+<td>114元</td>
+<td>2</td>
+<td>一月大约两瓶，具体用量和经营状况有关</td>
+<td>228元</td>
+</tr>
+<tr>
+<td>食材</td>
+<td>200元</td>
+<td>1</td>
+<td>一晚上食材费用</td>
+<td>200元</td>
+</tr>
+<tr>
+<td>餐具</td>
+<td>56元</td>
+<td>1</td>
+<td>32元8000个生物可降解塑料袋、<br>24元300张油膜袋子</td>
+<td>56元</td>
+</tr>
+<tr>
+<td>总计</td>
+<td></td>
+<td></td>
+<td></td>
+<td>7240元</td>
+</tr>
+</tbody>
+</table>
+<p>车辆与炉具尽管是最耐用的，但是长期运营下来都是会有磨损的，所以从长期来看并不能当作一次性投入。期中食材成本占主要部分，但是在大多数情况下，为了节约成本，不少食材可以第二天继续销售。</p>
+<h3> 运营成本</h3>
+<p>假设一天卖50份，以下估算一个月运营所需的成本。</p>
+<table>
+<thead>
+<tr>
+<th>购置项</th>
+<th>费用</th>
+<th>购置数量</th>
+<th>备注</th>
+<th>总计</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>车辆维护</td>
+<td>100元</td>
+<td>1</td>
+<td>每月一次</td>
+<td>100元</td>
+</tr>
+<tr>
+<td>燃气</td>
+<td>114元</td>
+<td>2</td>
+<td>两瓶/月</td>
+<td>228元</td>
+</tr>
+<tr>
+<td>食材</td>
+<td>160元</td>
+<td>30</td>
+<td>复用昨日食材，降本增效</td>
+<td>480元</td>
+</tr>
+<tr>
+<td>餐具（油膜袋子）</td>
+<td>24元</td>
+<td>6</td>
+<td>油膜袋子24元300张<br>一天消耗60张（包含损耗）</td>
+<td>144元</td>
+</tr>
+<tr>
+<td>餐具（塑料袋）</td>
+<td>0.004元/天</td>
+<td>60x30</td>
+<td>塑料袋成本为0.002元/个<br>一天消耗60个（包含损耗）</td>
+<td>7.2元</td>
+</tr>
+<tr>
+<td>总计</td>
+<td></td>
+<td></td>
+<td></td>
+<td>959.2元</td>
+</tr>
+</tbody>
+</table>
+<h3> 利润</h3>
+<p>人均消费：10元（根据城市的居民消费水平有所变化）</p>
+<p>日客流量：50人（根据城市，地段和营业时间有关）</p>
+<p>日营业额：500元</p>
+<p>月营业额：500x30=15000元</p>
+<p>月利润：15000-959.2=14040.8元</p>
+<p>毛利率：93.6%</p>
+<p>忽略初次投入，通过计算月利润，可以得到相当高的利润，相比小明在公司10000元的收入要多不少。但是依然不能说明卖手抓饼比在公司上班更合适，因为该利润为理论计算，随着人均消费和日客流量的提高，其所在城市的物价也会相应提高，其经营成本也会随之提高，所获取的利润未必能有理论计算的期望，因此还需要从其他角度加以分析。</p>
+<h2> 风险评估</h2>
+<h3> CPI影响</h3>
+<p>从上述的运营成本可以知道，食材占据了整个经营成本的绝大部分，那么作为一个依赖多种食材的食品，其成本和CPI将有高度的相关性，CPI上涨带来的通货膨胀压力会增加，购置的材料种类越多越受影响，尽管可以通过涨价来维持销售价格的不变，但是也可能导致客户的流失，使得营业额下降，甚至导致亏损。</p>
+<p>CPI变动对企业上班的员工影响比较小，因为其基本收入并不随CPI变化，相当于有保底收入。不用向手抓饼这种材料驱动的生意一样承担CPI风险。CPI风险由公司整体（老板）来承担的了。</p>
+<h3> 营业地点</h3>
+<p>餐车的流动经营模式，和大环境的经济情况有关，如果大环境经济条件好，那么城市对这些流动经营的包容性越小，例如城市文创，甚至对其进行驱逐；反之，则鼓励流动经营，城市可能会专门划出区域来给予经营。</p>
+<p>当然餐车也可能会有指定地点进行经营，例如如海大小吃街，但是这种经营方式需要支付相应的租金，这会增加成本，也会面临更大的竞争，对于初创经营者来说并不友好。</p>
+<p>其次，如果室外经营，受自然环境的影响大，恶劣天气即使出摊也基本不会有营收。</p>
+<h3> 工作时间</h3>
+<p>公司上班一般可以在比较常规的时间上下班，即使加班也不会到凌晨，而且会有加班工资。</p>
+<p>卖手抓饼相对幸苦，需要早起备餐，甚至凌晨收摊，每天都需要出摊，并且在节假日这种公众放假的时间更需要出摊。</p>
+<p>尽管短期内所得收入非常可观，但是长期下去健康问题也是需要去注意。否则很可能一个月经营全部花费在健康的维护上。</p>
+<h2> 结论</h2>
+<p>卖手抓饼确实赚钱，但是起早摸黑，受恶劣天气影响大，作为个体经营者，要自负盈亏，尽管赚得可能不少，但是收益总是于风险呈正比的；而公司盈亏对于员工薪酬的影响不大，虽然收入的基本固定，但是胜在相对稳定，但是也因个人能力而有差异，也有被辞退的风险。</p>
+<p>而且，如果是正规公司，也会有五险一金，工伤赔偿，社会保障等，使得员工个体承担的风险变小。而卖手抓饼的大多数都没有购置完善的保险，对于不可预测的医疗支出会承担较大的风险。</p>
+<h2> 建议</h2>
+<p>如果有公司上班，就继续在公司上班，不建议跳槽经营手抓饼。</p>
+]]></content>
+    <author>
+      <name>Jelly</name>
+    </author>
+    <category term="数据分析"/>
+    <contributor>
+      <name>Jelly</name>
+    </contributor>
+    <published>2024-06-07T00:00:00.000Z</published>
+    <rights>Copyright by Jelly</rights>
+  </entry>
+  <entry>
+    <title type="text">关于跳槽手抓饼可行性的分析报告</title>
+    <id>https://blog.jellyqwq.top/data-analysis/%E7%BD%91%E7%BB%9C%E6%B6%88%E8%B4%B9%E8%80%85%E8%B4%AD%E4%B9%B0%E8%A1%8C%E4%B8%BA%E5%88%86%E6%9E%90.html</id>
+    <link href="https://blog.jellyqwq.top/data-analysis/%E7%BD%91%E7%BB%9C%E6%B6%88%E8%B4%B9%E8%80%85%E8%B4%AD%E4%B9%B0%E8%A1%8C%E4%B8%BA%E5%88%86%E6%9E%90.html"/>
+    <updated>2024-10-22T12:36:58.000Z</updated>
+    <summary type="html"><![CDATA[<h1> 网络消费者购买行为分析</h1>
+<h2> 引言</h2>
+<p>如今电商蓬勃发展，产生大量的购物信息，如何利用这些购物信息为消费者提供更良好的购物体验成了亟待解决的问题。本文将对该数据集进行数据挖掘，找到其潜在关联规则。</p>
+<h2> 数据采集</h2>
+<p>本次分析使用了阿里云天池的<a href="https://tianchi.aliyun.com/competition/entrance/231522" target="_blank" rel="noopener noreferrer">电商用户行为数据集</a>。</p>
+<p>第一部分是用户在商品全集上的移动端行为数据（D），表名为 <code>tianchi_fresh_comp_train_user</code>，包含字段如下表所示：</p>]]></summary>
+    <content type="html"><![CDATA[<h1> 网络消费者购买行为分析</h1>
+<h2> 引言</h2>
+<p>如今电商蓬勃发展，产生大量的购物信息，如何利用这些购物信息为消费者提供更良好的购物体验成了亟待解决的问题。本文将对该数据集进行数据挖掘，找到其潜在关联规则。</p>
+<h2> 数据采集</h2>
+<p>本次分析使用了阿里云天池的<a href="https://tianchi.aliyun.com/competition/entrance/231522" target="_blank" rel="noopener noreferrer">电商用户行为数据集</a>。</p>
+<p>第一部分是用户在商品全集上的移动端行为数据（D），表名为 <code>tianchi_fresh_comp_train_user</code>，包含字段如下表所示：</p>
+<table>
+<thead>
+<tr>
+<th>字段</th>
+<th>字段说明</th>
+<th>提取说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>user_id</td>
+<td>用户标识</td>
+<td>抽样&amp;字段脱敏</td>
+</tr>
+<tr>
+<td>item_id</td>
+<td>商品标识</td>
+<td>字段脱敏</td>
+</tr>
+<tr>
+<td>behavior_type</td>
+<td>用户对商品的行为类型</td>
+<td>包括浏览、收藏、加购物车、购买，对应取值分别是1、2、3、4。</td>
+</tr>
+<tr>
+<td>user_geohash</td>
+<td>用户位置的空间标识，可以为空</td>
+<td>由经纬度通过保密的算法生成</td>
+</tr>
+<tr>
+<td>item_category</td>
+<td>商品分类标识</td>
+<td>字段脱敏</td>
+</tr>
+<tr>
+<td>time</td>
+<td>行为时间</td>
+<td>精确到小时级别</td>
+</tr>
+</tbody>
+</table>
+<p>第二个部分是商品子集（P），表名为 <code>tianchi_fresh_comp_train_item</code>，包含字段如下表所示：</p>
+<table>
+<thead>
+<tr>
+<th>字段</th>
+<th>字段说明</th>
+<th>提取说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>item_id</td>
+<td>商品标识</td>
+<td>抽样&amp;字段脱敏</td>
+</tr>
+<tr>
+<td>item_ geohash</td>
+<td>商品位置的空间标识，可以为空</td>
+<td>由经纬度通过保密的算法生成</td>
+</tr>
+<tr>
+<td>item_category</td>
+<td>商品分类标识</td>
+<td>字段脱敏</td>
+</tr>
+</tbody>
+</table>
+<h2> 数据清洗</h2>
+<p>先对通过查看D数据集的空值情况可以知道，除了用户位置的空间标识是有大量的空值情况外，其他字段不存在空值。同时空间标识也不是必要的。</p>
+<figure><img src="https://gcore.jsdelivr.net/gh/jellyqwq/PictureBed@main/blog/2024/06/1718272319068.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h2> 数据分析</h2>
+<figure><img src="https://gcore.jsdelivr.net/gh/jellyqwq/PictureBed@main/blog/2024/06/1718280534443.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>通过观察上图可以知道，用户的主要行为是浏览商品，其次是收藏行为，与此同时，收藏数量、加入购物车和购买的行为相比浏览数量差距明显。这说明用户不能很好地找到要购买的物品。其中的原因可能是平台的推荐算法不够准确，或者是平台的广告内容投放过于频繁，也可能是用户只是想浏览商品而不购买。</p>
+<figure><img src="https://gcore.jsdelivr.net/gh/jellyqwq/PictureBed@main/blog/2024/06/1718281722625.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>通过对消费者事件产生的时间分布图（如上图所示）观察可以得知，在一天中，早上10点开始用户开始活跃于平台，并且在傍晚开始用户的用户的活跃达到最高，那么用户最有可能在晚上完成购物，也就是说晚上是消费的黄金时段。</p>
+<figure><img src="https://gcore.jsdelivr.net/gh/jellyqwq/PictureBed@main/blog/2024/06/1718282828479.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>如上图所示，这些区域的消费者产出的事件比较频繁，也就意味着这部分地区的市场较大，如果是商家可以考虑扩展该地区业务，但也要注意市场竞争压力。</p>
+<h2> 总结</h2>
+<p>综上所述，通过用户事件曲线可以得知，用户通常会在晚上进行购物操作，那么可以通过将白天价格也即一般价格定在相对高点，晚上再以优惠券或折扣等方式实现降价出售，能更好地将产品销售出去。此外也可以选择热点地区进行业务拓展来增加用户浏览量，进而实现销量的提高。最后，要优化推荐算法，以缩小浏览与其他事件的差距，为消费者节约时间。</p>
+]]></content>
+    <author>
+      <name>Jelly</name>
+    </author>
+    <category term="数据分析"/>
+    <contributor>
+      <name>Jelly</name>
+    </contributor>
+    <published>2024-06-14T00:00:00.000Z</published>
+    <rights>Copyright by Jelly</rights>
+  </entry>
+  <entry>
+    <title type="text">ENSP-command-practice</title>
+    <id>https://blog.jellyqwq.top/other/ENSP-topo-practice.html</id>
+    <link href="https://blog.jellyqwq.top/other/ENSP-topo-practice.html"/>
+    <updated>2024-10-22T12:22:05.000Z</updated>
+    <summary type="html"><![CDATA[<h1> ENSP实训项目命令</h1>
+<h1> 1. 设备相关配置</h1>
+<p>目标拓扑图</p>
+<!-- ![1712830290001](image/command/1712830290001.png) -->
+<h2> 1.1 PC 电脑</h2>
+<table>
+<thead>
+<tr>
+<th>电脑名称</th>
+<th>所属部门</th>
+<th>IP 配置</th>
+<th>vlan</th>
+<th>网关</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>PC1</td>
+<td>客户部</td>
+<td>192.168.10.100/24</td>
+<td>10</td>
+<td>192.168.10.1</td>
+</tr>
+<tr>
+<td>PC2</td>
+<td>市场部</td>
+<td>192.168.20.201/24</td>
+<td>20</td>
+<td>192.168.20.1</td>
+</tr>
+<tr>
+<td>PC3</td>
+<td>客户部</td>
+<td>192.168.10.101/24</td>
+<td>10</td>
+<td>192.168.10.1</td>
+</tr>
+<tr>
+<td>PC4</td>
+<td>财务部</td>
+<td>192.168.30.150/24</td>
+<td>30</td>
+<td>192.168.30.1</td>
+</tr>
+<tr>
+<td>PC5</td>
+<td>财务部</td>
+<td>192.168.30.151/24</td>
+<td>30</td>
+<td>192.168.30.1</td>
+</tr>
+<tr>
+<td>PC6</td>
+<td>市场部</td>
+<td>192.168.20.200/24</td>
+<td>20</td>
+<td>192.168.20.1</td>
+</tr>
+</tbody>
+</table>]]></summary>
+    <content type="html"><![CDATA[<h1> ENSP实训项目命令</h1>
+<h1> 1. 设备相关配置</h1>
+<p>目标拓扑图</p>
+<!-- ![1712830290001](image/command/1712830290001.png) -->
+<h2> 1.1 PC 电脑</h2>
+<table>
+<thead>
+<tr>
+<th>电脑名称</th>
+<th>所属部门</th>
+<th>IP 配置</th>
+<th>vlan</th>
+<th>网关</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>PC1</td>
+<td>客户部</td>
+<td>192.168.10.100/24</td>
+<td>10</td>
+<td>192.168.10.1</td>
+</tr>
+<tr>
+<td>PC2</td>
+<td>市场部</td>
+<td>192.168.20.201/24</td>
+<td>20</td>
+<td>192.168.20.1</td>
+</tr>
+<tr>
+<td>PC3</td>
+<td>客户部</td>
+<td>192.168.10.101/24</td>
+<td>10</td>
+<td>192.168.10.1</td>
+</tr>
+<tr>
+<td>PC4</td>
+<td>财务部</td>
+<td>192.168.30.150/24</td>
+<td>30</td>
+<td>192.168.30.1</td>
+</tr>
+<tr>
+<td>PC5</td>
+<td>财务部</td>
+<td>192.168.30.151/24</td>
+<td>30</td>
+<td>192.168.30.1</td>
+</tr>
+<tr>
+<td>PC6</td>
+<td>市场部</td>
+<td>192.168.20.200/24</td>
+<td>20</td>
+<td>192.168.20.1</td>
+</tr>
+</tbody>
+</table>
+<h2> 1.2 交换机</h2>
+<table>
+<thead>
+<tr>
+<th>型号</th>
+<th>接口</th>
+<th>IP 配置</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>AR2220(AR1)</td>
+<td>(in)g3/0/0<br>(out)g4/0/0</td>
+<td>192.168.40.2/24(in)<br>10.10.10.1/8(out)</td>
+</tr>
+<tr>
+<td>AR1220(AR3 外网)</td>
+<td>(in)g0/0/1<br>(out)g0/0/0</td>
+<td>64.1.1.10/24(in)<br>6.1.1.1/24(out)</td>
+</tr>
+</tbody>
+</table>
+<h2> 1.3 防火墙</h2>
+<table>
+<thead>
+<tr>
+<th>型号</th>
+<th>接口</th>
+<th>IP</th>
+<th>区域</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>USG6000V</td>
+<td>G1/0/1<br>G1/0/2<br>G1/0/3</td>
+<td>10.10.10.2/8<br>172.16.10.1/24<br>64.1.1.1/24</td>
+<td>(trust)<br>(dmz)<br>(untrust)</td>
+</tr>
+</tbody>
+</table>
+<h2> 1.4 服务器</h2>
+<table>
+<thead>
+<tr>
+<th>PC 型号</th>
+<th>IP</th>
+<th>网关</th>
+<th>区域</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Server(1)</td>
+<td>172.16.10.2/24</td>
+<td>172.16.10.1</td>
+<td>非军事区</td>
+</tr>
+<tr>
+<td>Server(2)</td>
+<td>6.1.1.6/24</td>
+<td>6.1.1.1</td>
+<td>外网</td>
+</tr>
+</tbody>
+</table>
+<p><strong>对路由器 AR2220 右键点击“设置”进行端口配置，添加两个 1GEC。</strong>(需要在路由器关机状态下进行)</p>
+<!-- ![1712828196706](image/command/1712828196706.png) -->
+<h1> 2. 交换机LSW1配置</h1>
+<p>进入系统视图, 关闭信息中心提醒, 交换机改名为 Lsw01, 批量创建 vlan</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>配置地址池 3000、3001、3002、3003、3004，阻止特定源 IP 地址的网络向特定目的 IP 地址的网络发送 ICMP 数据包。即拒绝从 192.168.30.0/24 网络到 64.0.0.0/8 网络的所有 ping 请求和 ping 应答。</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>为交换机上的 VLAN10、VLAN20、VLAN30、VLAN40 接口配置一个具有 IP 地址的路由接口，使其能够进行本地网络内部的通信以及与其他网络之间的通信。</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>将交换机上的端口分配到创建的 VLAN 中并设置接口为 access，实现不同 VLAN 之间的隔离和管理，同时，应用名为 ACL 300x 的流量过滤器，以控制流量的出向行为。</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h1> 3. 路由器AR1配置</h1>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>给路由器接口配置相应的 IP 地址，使其能够参与到相应子网内的网络通信中。</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>在路由器 AR_01 上启用了 RIP 协议，并配置 RIP 进程编号为 1 的相关参数。</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>指定路由器处理不同目的地地址的数据包转发。在路由器 AR_01 上配置两条静态路由，一条是默认路由，另一条是针对特定目的地网络 192.168.0.0/16 的路由。</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h1> 4. 防火墙USG6000V配置</h1>
+<p>防火墙原始命令和密码</p>
+<blockquote>
+<p>Username:admin</p>
+</blockquote>
+<blockquote>
+<p>Password:Admin@123</p>
+</blockquote>
+<p>进入防火墙并关闭日志提示</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div><p>设置防火墙的动作和策略，以及对IPS和URI解码的相关配置，并在最后进入并退出了默认的VPN实例配置模式。</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>在相应接口的配置模式下，取消相应接口的关闭状态，使其可以传输数据包。</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>为不同的接口分配不同的安全区域，并设置这些安全区域的优先级，该命令操作有利于在防火墙中进行策略制定和流量控制。</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>配置两条静态路由，一条默认路由和一条针对特定目的地网络的路由，并设置两条安全策略规则，允许特定区域的流量通过到达目标区域。</p>
+<p>指定"trust" 安全区域作为源区域</p>
+<p>指定"untrust" 安全区域作为目的区域</p>
+<p>允许来自"trust" 区域的流量到达 "untrust" 区域</p>
+<p>配置名为 "fwq"的安全策略规则</p>
+<p>指定"trust" 安全区域作为源区域</p>
+<p>指定"dmz" 安全区域作为目的区域</p>
+<p>允许来自"trust" 区域的流量到达 "dmz" 区域</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>配置NAT策略规则，指定来自 "trust" 区域到 "untrust" 区域的流量进行源地址转换，即使用简单IP地址转换的方式。</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h1> 5. 路由器AR3配置</h1>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div><p>为接口配置相应的IP地址</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>配置默认路由，并指定一个出口接口作为默认路由。</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>]]></content>
+    <author>
+      <name>Jelly</name>
+    </author>
+    <category term="Network"/>
+    <contributor>
+      <name>Jelly</name>
+    </contributor>
+    <published>2022-11-20T00:00:00.000Z</published>
+    <rights>Copyright by Jelly</rights>
+  </entry>
+  <entry>
+    <title type="text">git不更新处于远程分支的某个文件</title>
+    <id>https://blog.jellyqwq.top/%E8%BF%90%E7%BB%B4/git/git%E4%B8%8D%E6%9B%B4%E6%96%B0%E5%A4%84%E4%BA%8E%E8%BF%9C%E7%A8%8B%E5%88%86%E6%94%AF%E7%9A%84%E6%9F%90%E4%B8%AA%E6%96%87%E4%BB%B6.html</id>
+    <link href="https://blog.jellyqwq.top/%E8%BF%90%E7%BB%B4/git/git%E4%B8%8D%E6%9B%B4%E6%96%B0%E5%A4%84%E4%BA%8E%E8%BF%9C%E7%A8%8B%E5%88%86%E6%94%AF%E7%9A%84%E6%9F%90%E4%B8%AA%E6%96%87%E4%BB%B6.html"/>
+    <updated>2024-02-13T15:25:19.000Z</updated>
+    <summary type="html"><![CDATA[<h1> 前言</h1>
+<p>最初起源于项目里的<code>docker-compose.yml</code>文件, github先上传了一份脱敏的<code>docker-compose.yml</code>, 然后我本地调试也需要用到这个同名的文件, 我会在其中填写token等环境变量来运行项目, 如果每次上传github都不选择这个文件的改动就对强迫症非常不友好, 或者用这个文件的别名, 使用<code>docker compose up --conf xxx.yml</code>来跑.</p>
+<p>这个问题可以用git来解决, 在把<code>docker-compose.yml</code>模板上传到github上后, 运行<strong>下述代码</strong>可以让git忽略本地对此文件的修改的变化.</p>]]></summary>
+    <content type="html"><![CDATA[<h1> 前言</h1>
+<p>最初起源于项目里的<code>docker-compose.yml</code>文件, github先上传了一份脱敏的<code>docker-compose.yml</code>, 然后我本地调试也需要用到这个同名的文件, 我会在其中填写token等环境变量来运行项目, 如果每次上传github都不选择这个文件的改动就对强迫症非常不友好, 或者用这个文件的别名, 使用<code>docker compose up --conf xxx.yml</code>来跑.</p>
+<p>这个问题可以用git来解决, 在把<code>docker-compose.yml</code>模板上传到github上后, 运行<strong>下述代码</strong>可以让git忽略本地对此文件的修改的变化.</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>要让git重新跟踪文件变化, 只要将<code>--assume-unchanged</code>改成<code>--no-assume-unchanged</code>即可</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h1> 参考文献</h1>
+<p><a href="https://stackoverflow.com/questions/9794931/keep-file-in-a-git-repo-but-dont-track-changes" target="_blank" rel="noopener noreferrer">https://stackoverflow.com/questions/9794931/keep-file-in-a-git-repo-but-dont-track-changes</a></p>
+]]></content>
+    <author>
+      <name>Jelly</name>
+    </author>
+    <category term="git"/>
+    <contributor>
+      <name>Jelly</name>
+    </contributor>
+    <published>2024-02-05T00:00:00.000Z</published>
+    <rights>Copyright by Jelly</rights>
+  </entry>
+  <entry>
+    <title type="text">Linux ls命令在某个目录下无反应</title>
+    <id>https://blog.jellyqwq.top/linux-system-administration/Linux-command-ls-is-invaild-in-some-directory.html</id>
+    <link href="https://blog.jellyqwq.top/linux-system-administration/Linux-command-ls-is-invaild-in-some-directory.html"/>
+    <updated>2023-12-29T16:13:27.000Z</updated>
+    <summary type="html"><![CDATA[<p>首先可以看下内核</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><pre class="language-bash"><code><span class="token function">dmesg</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>这里发现的是里面挂载了一个nfs目录, 但是该nfs目录已经失效, 也就是访问的时候timeout了, 所以没能成功访问</p>]]></summary>
+    <content type="html"><![CDATA[<p>首先可以看下内核</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>这里发现的是里面挂载了一个nfs目录, 但是该nfs目录已经失效, 也就是访问的时候timeout了, 所以没能成功访问</p>
+<p>查看下nfs挂载点</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>只要将该目录取消挂载即可, 这里挂载的nfs目录为 <code>~/Alist/Ayaka</code></p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>]]></content>
+    <author>
+      <name>Jelly</name>
+    </author>
+    <category term="Linux"/>
+    <contributor>
+      <name>Jelly</name>
+    </contributor>
+    <published>2023-12-29T00:00:00.000Z</published>
+    <rights>Copyright by Jelly</rights>
+  </entry>
+  <entry>
+    <title type="text">switch手柄玩PC原神</title>
+    <id>https://blog.jellyqwq.top/other/switch%E6%89%8B%E6%9F%84%E7%8E%A9PC%E5%8E%9F%E7%A5%9E.html</id>
+    <link href="https://blog.jellyqwq.top/other/switch%E6%89%8B%E6%9F%84%E7%8E%A9PC%E5%8E%9F%E7%A5%9E.html"/>
+    <updated>2023-06-19T10:38:17.000Z</updated>
+    <summary type="html"><![CDATA[<p>首先需要借助steam来启动原神，可以在库里添加原神游戏，默认能直接扫到，扫不到可以去原神安装目录里选择Yuanshen.exe来添加</p>
+<figure><img src="https://cdn.jsdelivr.net/gh/jellyqwq/PictureBed@main/2023/06/1b7527fe-b21d-48aa-a6ea-ac70a34dc849.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>有了steam后还需要一个软件，项目地址在这<a href="https://github.com/Davidobot/BetterJoy" target="_blank" rel="noopener noreferrer">https://github.com/Davidobot/BetterJoy</a> ，在右侧Releases中下载对应版本，下载后是个压缩包，解压后如下图</p>]]></summary>
+    <content type="html"><![CDATA[<p>首先需要借助steam来启动原神，可以在库里添加原神游戏，默认能直接扫到，扫不到可以去原神安装目录里选择Yuanshen.exe来添加</p>
+<figure><img src="https://cdn.jsdelivr.net/gh/jellyqwq/PictureBed@main/2023/06/1b7527fe-b21d-48aa-a6ea-ac70a34dc849.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>有了steam后还需要一个软件，项目地址在这<a href="https://github.com/Davidobot/BetterJoy" target="_blank" rel="noopener noreferrer">https://github.com/Davidobot/BetterJoy</a> ，在右侧Releases中下载对应版本，下载后是个压缩包，解压后如下图</p>
+<figure><img src="https://cdn.jsdelivr.net/gh/jellyqwq/PictureBed@main/2023/06/8d1096fd-c257-4f87-9691-6a2362143817.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>在Drivers中选择自己电脑对应的驱动进行安装，64位的是<strong>ViGEmBusSetup_x64.msi</strong> ，32位的是<strong>ViGEmBusSetup_x86.msi</strong></p>
+<figure><img src="https://cdn.jsdelivr.net/gh/jellyqwq/PictureBed@main/2023/06/ccd5b118-81b0-482c-9d48-621319843882.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>由于switch在原神按键中的XY和AB是相反的，需要用这个通过修改该软件的配置来解决，要修改<strong>BetterJoyForCemu.exe.config</strong>中的参数</p>
+<figure><img src="https://cdn.jsdelivr.net/gh/jellyqwq/PictureBed@main/2023/06/d524afd5-374c-436a-a0ab-39d3a8f8a841.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>右键用记事本打开该文件，将蓝框的值从默认的false改为true，<strong></strong></p>
+<figure><img src="https://cdn.jsdelivr.net/gh/jellyqwq/PictureBed@main/2023/06/460c678d-6aef-4a2b-8656-7ba189523904.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>做好上述准备后，将打开电脑蓝牙，连接手柄，（我的手柄是长按充电口旁的小点来打开蓝牙配队，其他情况还请自行搜索）。</p>
+<p>然后先启动steam，再启动<strong>BetterJoyForCemu.exe</strong>，启动后可以缩小到右下角的隐藏菜单中</p>
+<figure><img src="https://cdn.jsdelivr.net/gh/jellyqwq/PictureBed@main/2023/06/bf9f890c-21c4-4fa1-b15e-387960a9d8e7.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>最后通过steam启动原神，在派蒙菜单中把<strong>键盘鼠标</strong>改为<strong>手柄</strong>即可使用手柄进行操作</p>
+<figure><img src="https://cdn.jsdelivr.net/gh/jellyqwq/PictureBed@main/2023/06/af6afc07-2df2-4b4f-967c-27f9b73e816c.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+]]></content>
+    <author>
+      <name>Jelly</name>
+    </author>
+    <category term="Game"/>
+    <contributor>
+      <name>Jelly</name>
+    </contributor>
+    <published>2023-02-13T00:00:00.000Z</published>
+    <rights>Copyright by Jelly</rights>
+  </entry>
+  <entry>
+    <title type="text">域名证书签发</title>
+    <id>https://blog.jellyqwq.top/linux-system-administration/process-of-domain-name-certificate-issuance.html</id>
+    <link href="https://blog.jellyqwq.top/linux-system-administration/process-of-domain-name-certificate-issuance.html"/>
+    <updated>2023-05-22T10:19:35.000Z</updated>
+    <summary type="html"><![CDATA[<p>给域名上证书签名提高流量的安全性, 也能减少打开网站时提示不安全影响浏览体验, 但是通过常规的方式如通过小马哥家的证书签名有配额限制, 而且销毁了也不减少签发额度.</p>
+<p>这个时候就需要用到一些其他的工具, 使用<a href="https://oneinstack.com/install/" target="_blank" rel="noopener noreferrer">OneinStack</a>可以方便地对服务器的基础服务进行部署, 如 <code>nginx</code>, <code>mysql</code>, <code>mongodb</code>...</p>]]></summary>
+    <content type="html"><![CDATA[<p>给域名上证书签名提高流量的安全性, 也能减少打开网站时提示不安全影响浏览体验, 但是通过常规的方式如通过小马哥家的证书签名有配额限制, 而且销毁了也不减少签发额度.</p>
+<p>这个时候就需要用到一些其他的工具, 使用<a href="https://oneinstack.com/install/" target="_blank" rel="noopener noreferrer">OneinStack</a>可以方便地对服务器的基础服务进行部署, 如 <code>nginx</code>, <code>mysql</code>, <code>mongodb</code>...</p>
+<p>如不熟悉nginx操作就不要修改其默认的安装的nginx的配置文件, 默认的nginx路径可以通过 <code>nginx -t</code> 命令查看, 一般在 <code>/usr/local/nginx</code></p>
+<p>在<strong>OneinStack</strong>目录里找到<code>vhost.sh</code>的文件, 这个就是给域名签发证书用的, 它签发的证书有效期只有几个月, 但是它会自动续签, 这点还是比较方便的</p>
+<p>在开始证书签发前还需要去该域名的提供商处添加你要解析的域名, 否则签发证书会失败, 添加完后要等待一段时间</p>
+<p>在该<strong>OneinStack</strong>目录中执行 <code>./vhost.sh</code> 开始对域名签发证书</p>
+<p>运行后会有几个选项, 选择<code>Use Let's Encrypt to Create SSL Certificate and Key</code>来开始对域名进行签名</p>
+<p>然后要求输入待签名的域名</p>
+<p>接着提示是否要更改该域名的网站目录, 默认目录为<code>/data/wwwroot/your-domain</code>, 不建议更改, 直接回车</p>
+<blockquote>
+<p>Do you want to add more domain name? [y/n]</p>
+</blockquote>
+<p>一般情况填 <code>n</code> 即可</p>
+<blockquote>
+<p>Do you want to redirect all HTTP requests to HTTPS? [y/n]</p>
+</blockquote>
+<p>一般填 <code>y</code>, 这个是对http流量的重定向, 体现在nginx的配置中</p>
+<blockquote>
+<p>Please enter your cert key length (default 2048):</p>
+</blockquote>
+<p>按需更改, 一般回车</p>
+<p>这步回车完后就是开始签发, 然后到选项</p>
+<blockquote>
+<p>Do you want to add hotlink protection? [y/n]</p>
+</blockquote>
+<p>一般填 <code>n</code></p>
+<blockquote>
+<p>Allow Rewrite rule? [y/n]</p>
+</blockquote>
+<p>一般填 <code>y</code>, 接着会有如下输入</p>
+<blockquote>
+<p>Please input rewrite of programme: ...... (Default rewrite other):</p>
+</blockquote>
+<p>这里要讲究下, 填要签发的域名, 这步就相当于给当前签发域名提供了一个自定义配置的文件, 他们都会生成在 <code>/usr/local/nginx/rewrite</code> 这个目录当中, 并以上述的输入 <code>x</code> 作为文件名 <code>x.conf</code></p>
+<blockquote>
+<p>Allow Nginx/Tengine/OpenResty access_log? [y/n]</p>
+</blockquote>
+<p>这个各取所需, 是否让nginx保留日志, 我用的 <code>n</code></p>
+]]></content>
+    <author>
+      <name>Jelly</name>
+    </author>
+    <category term="Linux"/>
+    <contributor>
+      <name>Jelly</name>
+    </contributor>
+    <published>2023-05-22T00:00:00.000Z</published>
+    <rights>Copyright by Jelly</rights>
+  </entry>
+  <entry>
+    <title type="text">Deploy Hive</title>
+    <id>https://blog.jellyqwq.top/code/system/hadoop/deploy-hive.html</id>
+    <link href="https://blog.jellyqwq.top/code/system/hadoop/deploy-hive.html"/>
+    <updated>2023-05-10T10:35:38.000Z</updated>
+    <summary type="html"><![CDATA[<h2> 前置</h2>
+<p>Hive 的使用需要依赖MySQL, 这里使用了mariadb来作为MySQL, 它是兼容MySQL的.</p>
+<h3> 镜像拉取</h3>
+<div class="language-bash line-numbers-mode" data-ext="sh"><pre class="language-bash"><code><span class="token function">docker</span> pull mariadb
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>]]></summary>
+    <content type="html"><![CDATA[<h2> 前置</h2>
+<p>Hive 的使用需要依赖MySQL, 这里使用了mariadb来作为MySQL, 它是兼容MySQL的.</p>
+<h3> 镜像拉取</h3>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h3> 运行实例</h3>
+<table>
+<thead>
+<tr>
+<th>参数</th>
+<th>值</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>–i</td>
+<td></td>
+<td>创建交互式会话</td>
+</tr>
+<tr>
+<td>-t</td>
+<td></td>
+<td>创建伪终端</td>
+</tr>
+<tr>
+<td>-d</td>
+<td></td>
+<td>后台启动</td>
+</tr>
+<tr>
+<td>--privileged=true</td>
+<td></td>
+<td>使用特权模式启动, 以允许容器对宿主机的写入</td>
+</tr>
+<tr>
+<td>--name</td>
+<td>mariadb</td>
+<td>容器名字</td>
+</tr>
+<tr>
+<td>--network</td>
+<td>misaka</td>
+<td>将数据库接入misaka网络</td>
+</tr>
+<tr>
+<td>--ip</td>
+<td>192.168.60.100</td>
+<td>容器IP</td>
+</tr>
+<tr>
+<td>-p</td>
+<td>3306:3306</td>
+<td>端口映射</td>
+</tr>
+<tr>
+<td>-v</td>
+<td>/d/Desktop/BD/resolv.conf:/etc/resolv.conf</td>
+<td>挂载目录使dns持久化</td>
+</tr>
+<tr>
+<td>-e</td>
+<td>MARIADB_ROOT_PASSWORD=123456</td>
+<td>设置数据库root用户密码</td>
+</tr>
+<tr>
+<td>-e</td>
+<td>MARIADB_DATABASE=hive</td>
+<td>创建名为hive的数据库</td>
+</tr>
+<tr>
+<td>-e</td>
+<td>MARIADB_USER=hive</td>
+<td>创建数据库用户hive</td>
+</tr>
+<tr>
+<td>-e</td>
+<td>MARIADB_PASSWORD=123456</td>
+<td>指定123456为上述用户的密码</td>
+</tr>
+</tbody>
+</table>
+<!-- |-v|/d/Desktop/BD/mariadb/data:/var/lib/mysql|挂载数据目录| -->
+<p>更多环境变量及参数移步至<a href="https://docs.docker.com/engine/reference/commandline/create/#options" target="_blank" rel="noopener noreferrer">官方文档</a></p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>用 <code>-v /d/Desktop/BD/mariadb/data:/var/lib/mysql</code> 来本地挂载数据卷会导致 <code>schemea</code> 出问题, 不建议使用这么用, 默认会使用 <code>docker</code> 的 <code>volumes</code> 来挂载 <code>/var/lib/mysql</code></p>
+<h3> 给hive用户数据库权限</h3>
+<div class="language-sql line-numbers-mode" data-ext="sql"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><figure><img src="https://cdn.jsdelivr.net/gh/jellyqwq/PictureBed@main/2023/05/84cbd72b-1257-4867-85c8-a5be1bc4d26b.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h2> Hive 安装</h2>
+<p>从<a href="https://hive.apache.org/general/downloads/" target="_blank" rel="noopener noreferrer">官网</a>下载, 可以查看不同Hadoop所支持的Hive</p>
+<p>由于我hadoop是3.2.4的, 所以我用<a href="https://dlcdn.apache.org/hive/hive-3.1.3/" target="_blank" rel="noopener noreferrer">hive-3.1.3</a></p>
+<h3> 下载hive</h3>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h3> 解压hive</h3>
+<blockquote>
+<p>-C path 解压到指定目录</p>
+</blockquote>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h3> 重命名hive目录</h3>
+<p>解压出来的hive一般是这样的: <code>apache-hive-3.1.3-bin</code>, 为了方便配置可以重命名下</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h3> 设置Hive属组</h3>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h3> 添加hive环境变量</h3>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div><h3> 刷新环境变量</h3>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h2> MySQL驱动包安装</h2>
+<p><code>mysql-connector-java-5.1.48.tar.gz</code>包的获取就不多说了, 同理hive</p>
+<h3> 解压</h3>
+<p>将该驱动包 <code>mysql-connector-java-5.1.48.tar.gz</code> 解压, 将其中的 <code>mysql-connector-java-5.1.48-bin.jar</code> 到 <code>$HIVE_HOME/lib</code> 中去</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3> 版本选择</h3>
+<p>可以在<a href="https://mvnrepository.com/artifact/mysql/mysql-connector-java" target="_blank" rel="noopener noreferrer">mvnrepository</a>找到所有jdbc的下载</p>
+<p>建议使用适配版本, 最新版未必适合</p>
+<p>我在 <code>hive-3.1.3</code> 使用 <code>mysql-connector-java-8.*.*</code> 版本时会出现版本不兼容的情况, 最后还是用回上面的 <code>mysql-connector-java-5.1.48</code> 版本</p>
+<h3> 配置文件</h3>
+<p>配置文件在 <code>$HIVE_HOME/conf</code> 下</p>
+<p>进入该目录</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h4> <a href="http://hive-env.sh" target="_blank" rel="noopener noreferrer">hive-env.sh</a></h4>
+<p>复制 <code>hive-env.sh.template</code> 为 <code>hive-env.sh</code></p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>对 <code>hive-env.sh</code> 配置, 修改其 <code>HADOOP_HOME</code>, <code>HIVE_CONF_DIR</code>和 <code>HIVE_AUX_JARS_PATH</code> 三个配置项, 并将其注释去掉</p>
+<p><code>HADOOP_HOME</code> 是Hadoop的Home目录</p>
+<p><code>HIVE_CONF_DIR</code> 是Hive的配置目录, 默认为 <code>$HIVE_HOME/conf</code></p>
+<p><code>HIVE_AUX_JARS_PATH</code> 是Hive存放jar包的路径 默认为 <code>$HIVE_HOME/lib</code></p>
+<figure><img src="https://cdn.jsdelivr.net/gh/jellyqwq/PictureBed@main/2023/05/548ca484-3c14-4690-9c8c-c6e497130f26.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h4> hive-default.xml</h4>
+<p>从模板中复制一份, 该文件为Hive默认加载文件可不用修改</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h4> hive-site.xml</h4>
+<p>在 <code>$HIVE_HOME/conf</code> 中新建文件 <code>hive-site.xml</code>, 并向其中添加如下内容</p>
+<blockquote>
+<p><code>192.168.60.100</code> 是 mariadb 的 IP</p>
+</blockquote>
+<div class="language-xml line-numbers-mode" data-ext="xml"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><figure><img src="https://cdn.jsdelivr.net/gh/jellyqwq/PictureBed@main/2023/05/331d5d7c-1dbc-4333-ad6d-e9844b59de16.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h2> Hive 运行</h2>
+<h3> 初始化hive</h3>
+<p>这是将hive的数据库操作类型设置为mysql, <code>--verbose</code> 参数可以获得更加完整的日志信息, 方便追踪错误</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><figure><img src="https://cdn.jsdelivr.net/gh/jellyqwq/PictureBed@main/2023/05/9e0077bd-c3e4-4b95-8bab-538e484fcfd6.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h3> 初始化问题</h3>
+<p>包括但不限于: <strong>JDBC版本不兼容</strong>, <strong>Hadoop与Hive版本不兼容</strong>, <strong>hive数据库已存在</strong> 等</p>
+<h3> 启动Hadoop集群</h3>
+<div class="hint-container tip">
+<p class="hint-container-title">提示</p>
+<p>运行hive前一定要先启动Hadoop集群否则会出错</p>
+</div>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3> 查看Hadoop服务进程</h3>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h4> 主节点</h4>
+<figure><img src="https://cdn.jsdelivr.net/gh/jellyqwq/PictureBed@main/2023/05/f5af3363-f33e-4003-9068-2054cdf98d98.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h4> 从节点</h4>
+<figure><img src="https://cdn.jsdelivr.net/gh/jellyqwq/PictureBed@main/2023/05/4470bc7f-ca1b-491f-9419-6b16ec480b7c.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h3> 进入hive</h3>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><figure><img src="https://cdn.jsdelivr.net/gh/jellyqwq/PictureBed@main/2023/05/aa8ef352-c4a9-46ed-ad89-fd2b4a7af5d5.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>查看下数据库, 或者使用其他的mysql命令来测试hive的可用性</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><figure><img src="https://cdn.jsdelivr.net/gh/jellyqwq/PictureBed@main/2023/05/bd8359f5-82ce-4d66-8d40-39d73ba95761.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h3> CLI乱码处理</h3>
+<p>如果在hive的CLI中输入中文变成一串问号, 需要在 <code>$HIVE_HOME/conf/hive-env.sh</code> 文件的最后加上编码格式</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>然后再重启hive</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h2> 汽车销售数据分析系统实战</h2>
+<p>相关文件</p>
+<table>
+<thead>
+<tr>
+<th>文件</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://cdn.jsdelivr.net/gh/jellyqwq/PictureBed@main/2023/05/create_cars.sql" target="_blank" rel="noopener noreferrer">create_cars.sql</a></td>
+<td>创建cars数据库和数据表</td>
+</tr>
+<tr>
+<td><a href="https://raw.githubusercontent.com/jellyqwq/PictureBed/main/2023/05/cars.txt" target="_blank" rel="noopener noreferrer">cars.txt</a></td>
+<td>待写入数据文件</td>
+</tr>
+</tbody>
+</table>
+<h3> 创建cars数据库表</h3>
+<p>在hive中执行下述命令以建立cars数据库, <code>source</code> 后跟主机路径, 而非 <code>hdfs</code> 内的路径</p>
+<div class="language-sql line-numbers-mode" data-ext="sql"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><figure><img src="https://cdn.jsdelivr.net/gh/jellyqwq/PictureBed@main/2023/05/a4b17780-8710-4f48-b2d4-de31bbb4ffda.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h3> 查看数据库表并退出</h3>
+<div class="language-sql line-numbers-mode" data-ext="sql"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><figure><img src="https://cdn.jsdelivr.net/gh/jellyqwq/PictureBed@main/2023/05/fea50ce9-096f-42d6-b3a0-55b7afe9f6b4.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<div class="hint-container tip">
+<p class="hint-container-title">提示</p>
+<p><code>hadoop fs</code> 与 <code>hdfs dfs</code> 等价</p>
+</div>
+<h3> 上传数据到hdfs中</h3>
+<p>上传前先检查下hdfs中是否存在 <code>/cars</code> 目录</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>没有就先创建</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>如果 <code>/cars</code> 目录内存在 <code>cars.txt</code> 文件, 再次上传前需要先删除该文件</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>上传 <code>cars.txt</code> 到 <code>hdfs</code> 中的 <code>/cars</code> 目录内</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>验证是否上传成功</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><figure><img src="https://cdn.jsdelivr.net/gh/jellyqwq/PictureBed@main/2023/05/9e2aef9f-dd74-408d-b924-c32a1e3b1106.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h3> 将数据对数据库进行外联接</h3>
+<div class="language-sql line-numbers-mode" data-ext="sql"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div><figure><img src="https://cdn.jsdelivr.net/gh/jellyqwq/PictureBed@main/2023/05/dc55fe0c-a212-40ec-baf8-29253bf39000.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h3> 查看hive仓库的内容</h3>
+<div class="language-sql line-numbers-mode" data-ext="sql"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><figure><img src="https://cdn.jsdelivr.net/gh/jellyqwq/PictureBed@main/2023/05/b1f2a6da-19e0-432b-afc1-3f8cfa34dec1.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h3> 统计乘用车辆和商用车辆的销售数量和销售占比</h3>
+<h4> ①统计乘用车辆和商用车辆的销售数量</h4>
+<p>根据使用性质字段 <code>nature</code> 进行分组统计乘用车和商用车的总数量, 乘用车辆的使用性质为<strong>非营运</strong>, 商用车辆的使用性质为<strong>营运</strong></p>
+<div class="language-sql line-numbers-mode" data-ext="sql"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><figure><img src="https://cdn.jsdelivr.net/gh/jellyqwq/PictureBed@main/2023/05/2fe4cd30-043f-4846-ac9c-90fc0940e189.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h4> ②统计汽车销售总数量</h4>
+<div class="language-sql line-numbers-mode" data-ext="sql"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><figure><img src="https://cdn.jsdelivr.net/gh/jellyqwq/PictureBed@main/2023/05/aa9f2596-b2eb-47cb-bd21-1687cbefe74c.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h4> ③计算销售占比</h4>
+<p>乘用车辆的销售数量占比 = 66478/70640 ≈ 94.1%</p>
+<p>商用车辆的销售量占比 = 3884/70640 ≈ 5.5%</p>
+<h3> 统计山西省2013年每个月的汽车销售数量的比例</h3>
+<p>分别统计出山西省2013年每个月的汽车销售数量和山西省2013年年度汽车销售总数量, 再用2013年每个月的汽车销售数量除以年度销售总数量</p>
+<div class="language-sql line-numbers-mode" data-ext="sql"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><figure><img src="https://cdn.jsdelivr.net/gh/jellyqwq/PictureBed@main/2023/05/778fbd4e-3679-49e0-ae04-e9d7cc4a0cfc.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>根据计算结果可知, 汽车销售销售的高峰期位于10月到1月, 这四个月的汽车销售数量都占到全年销售的10%, 其中一月份最为显著, 达到了14.8%</p>
+<div class="hint-container tip">
+<p class="hint-container-title">注意</p>
+<p>若代码报错如下报错，则分别运行一下两行命令以解除禁用</p>
+<p><code>FAILED: SemanticException Cartesian products are disabled for safety reasons. If you know what you are doing, please sethive.strict.checks.cartesian.product to false and that hive.mapred.mode is not set to 'strict' to proceed. Note that if you may get errors or incorrect results if you make a mistake while using some of the unsafe features.</code></p>
+</div>
+<div class="language-sql line-numbers-mode" data-ext="sql"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div><h3> 统计买车的男女比例及男女对车的品牌的选择</h3>
+<h4> ①统计买车的男女比例</h4>
+<div class="language-sql line-numbers-mode" data-ext="sql"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><figure><img src="https://cdn.jsdelivr.net/gh/jellyqwq/PictureBed@main/2023/05/a69f67a3-7ee3-4e57-97d7-2de7bff5112b.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>根据计算结果, 男性占比70.1%, 女性占比29.9%</p>
+<h4> ②统计男女对车的品牌选择比例</h4>
+<div class="language-sql line-numbers-mode" data-ext="sql"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><figure><img src="https://cdn.jsdelivr.net/gh/jellyqwq/PictureBed@main/2023/05/8c76963b-3fc0-482a-a96e-413892bf0a6c.png" alt="图示为部分结果" tabindex="0" loading="lazy"><figcaption>图示为部分结果</figcaption></figure>
+<h3> 统计车的所有权、车辆型号和车辆类型</h3>
+<h4> ①统计车的所有权</h4>
+<p>根据车辆的所有权字段 <code>owership</code> 进行分组统计, 得出属于个人的车辆总数, 属于单位的车辆总数或者其他</p>
+<div class="language-sql line-numbers-mode" data-ext="sql"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div><figure><img src="https://cdn.jsdelivr.net/gh/jellyqwq/PictureBed@main/2023/05/2df5d703-a783-4454-a44c-324796662f74.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h4> ②统计车辆型号</h4>
+<p>根据车辆型号字段 <code>model</code> 进行分组统计, 得出各种不同车辆型号的总数量</p>
+<div class="language-sql line-numbers-mode" data-ext="sql"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div><figure><img src="https://cdn.jsdelivr.net/gh/jellyqwq/PictureBed@main/2023/05/268ec82e-cc40-4331-84e1-12515629d036.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h4> ③统计车辆类型</h4>
+<p>根据车辆类型字段vehicletype进行分组统计</p>
+<div class="language-sql line-numbers-mode" data-ext="sql"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div><figure><img src="https://cdn.jsdelivr.net/gh/jellyqwq/PictureBed@main/2023/05/3769ef53-c1ca-42f1-80c4-a7c3abee8d5a.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h3> 统计不同类型车在一个月的总销售量</h3>
+<p>统计不同类型车在一个月的总销售量, 即统计某一年某一个月某一类型的车</p>
+<div class="language-sql line-numbers-mode" data-ext="sql"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><figure><img src="https://cdn.jsdelivr.net/gh/jellyqwq/PictureBed@main/2023/05/33e5089c-eae3-417c-bd2f-3dba276db4bd.png" alt="图示为部分结果" tabindex="0" loading="lazy"><figcaption>图示为部分结果</figcaption></figure>
+<h3> 通过不同类型（品牌）车销量情况，来统计发动机型号和燃料种类</h3>
+<p>根据车辆的品牌字段 <code>brand</code>, 发动机型号字段 <code>enginemodel</code> 和燃油种类字段 <code>fuel</code> 进行分组统计</p>
+<div class="language-sql line-numbers-mode" data-ext="sql"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div><figure><img src="https://cdn.jsdelivr.net/gh/jellyqwq/PictureBed@main/2023/05/36c45d3d-ae15-4f50-8e93-6eda4aad3e9d.png" alt="图示为部分结果" tabindex="0" loading="lazy"><figcaption>图示为部分结果</figcaption></figure>
+<h3> 统计五菱某一年每月的销售量</h3>
+<p>根据汽车的品牌 <code>brand</code> 和月 <code>month</code> 两个字段进行分组统计, 并从结果中将品牌名为 <code>五菱</code> 的数据过滤出来</p>
+<div class="language-sql line-numbers-mode" data-ext="sql"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div><figure><img src="https://cdn.jsdelivr.net/gh/jellyqwq/PictureBed@main/2023/05/65bb952b-9b3d-42f8-98eb-ef99ed94c887.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+]]></content>
+    <author>
+      <name>Jelly</name>
+    </author>
+    <category term="Hadoop"/>
+    <contributor>
+      <name>Jelly</name>
+    </contributor>
+    <published>2023-05-08T00:00:00.000Z</published>
+    <rights>Copyright by Jelly</rights>
+  </entry>
+  <entry>
+    <title type="text">宝塔面板部署Genshinhelper</title>
+    <id>https://blog.jellyqwq.top/invalid/baota-deploy-genshinhelper.html</id>
+    <link href="https://blog.jellyqwq.top/invalid/baota-deploy-genshinhelper.html"/>
+    <updated>2023-05-07T16:29:09.000Z</updated>
+    <summary type="html"><![CDATA[<h1> 宝塔部署Ginshinhelper</h1>
+<p>首先找到宝塔面板中的软件商店，在里面搜索并下载Python项目管理器，打开首页显示，这步应该是默认的，也是为了操作方便，如果没有，可以通过下在软件商店的已安装列找到Python项目管理器打开首页显示设置。</p>
+<p>然后在首页找到Python项目管理器打开，然后在版本管理中选择一个版本安装，至此，python运行环境就装好了，具体使用方法稍后面会讲到。</p>
+<hr>
+<p>接下来介绍下核心的工具</p>
+<p>作者：<a href="https://www.yindan.me/tutorial/genshin-impact-helper.html" target="_blank" rel="noopener noreferrer">银弹</a></p>]]></summary>
+    <content type="html"><![CDATA[<h1> 宝塔部署Ginshinhelper</h1>
+<p>首先找到宝塔面板中的软件商店，在里面搜索并下载Python项目管理器，打开首页显示，这步应该是默认的，也是为了操作方便，如果没有，可以通过下在软件商店的已安装列找到Python项目管理器打开首页显示设置。</p>
+<p>然后在首页找到Python项目管理器打开，然后在版本管理中选择一个版本安装，至此，python运行环境就装好了，具体使用方法稍后面会讲到。</p>
+<hr>
+<p>接下来介绍下核心的工具</p>
+<p>作者：<a href="https://www.yindan.me/tutorial/genshin-impact-helper.html" target="_blank" rel="noopener noreferrer">银弹</a></p>
+<p>项目介绍：<a href="https://pypi.org/project/genshinhelper/" target="_blank" rel="noopener noreferrer">genshinhelper</a></p>
+<p>本次使用项目：<a href="https://gitlab.com/y1ndan/genshin-checkin-helper" target="_blank" rel="noopener noreferrer">https://gitlab.com/y1ndan/genshin-checkin-helper</a></p>
+<p>将这个项目通过宝塔面板下载到服务器上，然后使用打开Python管理器，具体操作如下：</p>
+<ul>
+<li>项目名称：自定</li>
+<li>路径：/xxx/genshin-checkin-helper-main</li>
+<li>Python版本：选择下载好的python版本</li>
+<li>框架和启动方式：python</li>
+<li>启动文件/文件夹：/xxx/genshin-checkin-helper-main/genshincheckinhelper/main.py</li>
+<li>是否安装模块依赖：勾选，如果添加项目时提醒没有找到依赖包可取消勾选，添加项目后运行，在Python项目管理器中查看当前项目运行的日志，会因为缺少模块而报错，只需将缺失模块名称复制，在Python项目管理器-项目管理-刚刚创建的项目-模块中粘贴要添加的模块，多运行几次，应该会缺几个包，每次报错会提示一个包</li>
+<li>开机启动：自定</li>
+</ul>
+<figure><img src="https://cdn.jsdelivr.net/gh/jellyqwq/PictureBed@main/2022/8/e7507c8a282bb7f8fa2fefd053b90f55f590986abc18a1319f214516a628f56a.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>接着就要配置/xxx/genshin-checkin-helper-main/genshincheckinhelper/config下的config.json文件，具体配置方式参考——项目介绍，其中</p>
+<ul>
+<li>“RANDOM_SLEEP_SECS_RANGE”: “0-300” 在开始签到后0~300秒内任意时刻进行签到操作</li>
+<li>“CHECK_IN_TIME”: “06:00” 每日6：00开始签到</li>
+</ul>
+<p>这两项操作设置好后在Python管理器中查看运行，运行正常即可</p>
+<h2> 关于在计划任务中运行python脚本</h2>
+<p>在Python文件管理器中创建项目以提供python运行环境</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>]]></content>
+    <author>
+      <name>Jelly</name>
+    </author>
+    <category term="部署"/>
+    <contributor>
+      <name>Jelly</name>
+    </contributor>
+    <published>2021-12-04T00:00:00.000Z</published>
+    <rights>Copyright by Jelly</rights>
+  </entry>
+  <entry>
+    <title type="text">B站每日自动化</title>
+    <id>https://blog.jellyqwq.top/invalid/bilibili-auto-daily.html</id>
+    <link href="https://blog.jellyqwq.top/invalid/bilibili-auto-daily.html"/>
+    <updated>2023-05-07T16:29:09.000Z</updated>
+    <summary type="html"><![CDATA[<h1> bili2233</h1>
+<p>bili2233这个系列将记录我写bilibili小工具的一些日常。</p>
+<p>本次开发参考了GitHub上的<a href="https://github.com/SocialSisterYi/bilibili-API-collect" target="_blank" rel="noopener noreferrer">bilibili-API-collect</a>项目，得益于这个项目对b站的API的收集，让制作过程省去不少麻烦。</p>
+<p>写这篇文章前,项目已经初步实现了直播签到、每日任务检测、每日分享、投币以及推送，但——整个过程都写在一个文件里，维护起来不太方便，我打算把功能分类写到相应的模块的类里面。</p>]]></summary>
+    <content type="html"><![CDATA[<h1> bili2233</h1>
+<p>bili2233这个系列将记录我写bilibili小工具的一些日常。</p>
+<p>本次开发参考了GitHub上的<a href="https://github.com/SocialSisterYi/bilibili-API-collect" target="_blank" rel="noopener noreferrer">bilibili-API-collect</a>项目，得益于这个项目对b站的API的收集，让制作过程省去不少麻烦。</p>
+<p>写这篇文章前,项目已经初步实现了直播签到、每日任务检测、每日分享、投币以及推送，但——整个过程都写在一个文件里，维护起来不太方便，我打算把功能分类写到相应的模块的类里面。</p>
+<p>现在先从登录模块的制作开始，这里b站提供了扫码登录、密码登录和手机验证码登录，这都不是关键，关键在于获取通过这些方式后的一串固定的登录密钥。</p>
+<p>一开始以为<a href="http://passport.bilibili.com/qrcode/getLoginUrl" target="_blank" rel="noopener noreferrer">http://passport.bilibili.com/qrcode/getLoginUrl</a>返回json数据中的url可以直接访问到二维码图片，然而实际访问这个url会进行一个跳转，跳转到另外的一个链接<a href="https://d.bilibili.com/download_app.html?bsource=app_bili" target="_blank" rel="noopener noreferrer">https://d.bilibili.com/download_app.html?bsource=app_bili</a>，跳转过程出现了一个一闪而过的界面，但是什么没有二维码，我觉得这是重定向，于是在网上找了好久的禁止重定向的方法，山穷水尽时，我才想到能不能用那个我以为生成二维码的链接的URL去生成二维码，于是我用草料二维码对那个网址生成了一下并用b站扫码测试，结果可行，那么接下来就只需要解决用URL生成一个信息为URL的二维码就行了。</p>
+<p>总结一下，响应数据的链接<a href="https://passport.bilibili.com/qrcode/h5/login?oauthKey=766347b20bda5fd4b372b7cd34925e68%E5%B9%B6%E4%B8%8D%E6%98%AF%E4%B8%80%E5%BC%A0%E5%9B%BE%E7%89%87URL%EF%BC%8C%E7%99%BB%E9%99%86%E9%9C%80%E8%A6%81%E6%89%AB%E7%9A%84%E6%AD%A3%E6%98%AF%E8%BF%99%E6%95%B4%E4%B8%AA%E9%93%BE%E6%8E%A5URL%E6%9C%AC%E8%BA%AB%E6%89%80%E7%94%9F%E6%88%90%E7%9A%84%E4%BA%8C%E7%BB%B4%E7%A0%81%E3%80%82" target="_blank" rel="noopener noreferrer">https://passport.bilibili.com/qrcode/h5/login?oauthKey=766347b20bda5fd4b372b7cd34925e68并不是一张图片URL，登陆需要扫的正是这整个链接URL本身所生成的二维码。</a></p>
+<p>知道了问题就可以解决了，Python第三方qrcode，可以解决二维码的生成问题。</p>
+<p>关于<a href="https://coolshell.cn/articles/10590.html" target="_blank" rel="noopener noreferrer">二维码的生成原理</a>。</p>
+<p>现在，利用qrcode把二维码生成出来了，但是又遇到一个问题，如何实现扫码后登录成功就自己把图片关掉，一开始直接用的qrcode的img对象进行show()，但是发现关起来不简单，于是我打算使用tkinter组件来实现，不过我发现tkinter的mainloop相当于一个while循环，也正是因为这个循环，二维码才能够作为窗口悬挂出来，想要继续跑下面对登录状态的检测就不行了，这么看来，只能是用双线程来实现。</p>
+<p>其实我也查到了一个可以在mainloop中运行函数的after方法，但是并不太适合，after的第一个参数是以毫秒为单位的延时，第二个是延时后执行的函数。</p>
+<p>经过一下午加一晚上的时间，把验证码扫完成功了会自行关掉的功能做出来了，尽可能使用python自带的模块。</p>
+<p>关于悬挂图片并能继续运行后面的代码：</p>
+<p>我选用了threading模块来创建一个用于跑tkinter的线程，这样就不影响我的主线程的循环检测，然后，我将创建的tkinter对象root声明为全局变量，这样我可以在主线程中控制tkinter的结束，我在主线程中使用了destroy方法对root对象进行关闭，但是这个时候会出现程序假死的问题，我猜测是因为多线程产生的问题，destroy将root窗口关闭，但是tkinter线程还在并且处于阻塞状态，将程序卡住，我便想从如何终止这个子线程来看看能不能解决问题，于是找到两种方法</p>
+<ol>
+<li>threading的event事件</li>
+<li>用python的错误处理机制来终止线程</li>
+</ol>
+<p>因为第二种的有更现成的运用，所以我用了第二种，但实际上第一种对线程的终止是更友好的。第二种就是用网上千篇一律找不到作者的代码片段——两个函数</p>
+<div class="language-python line-numbers-mode" data-ext="py"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>一般可以配合下面的代码使用</p>
+<div class="language-python line-numbers-mode" data-ext="py"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>通过上述代码就解决root.destroy()导致的程序进入假死的问题。</p>
+<p>后面我加上了一个提取登录信息的函数，可直接将接下来登录要用的参数返回。</p>
+<p>今天把扫码验证的cookie和config.json文件结合，终于明白了扫码和短信是真的不适合用来做每日登录，需要复杂的人机交互，当下只有密码登录可以解决每日登录的问题，也就是说，现在理论上除了每日登录之外的所有功能都可以长时间无人干涉地运行。</p>
+]]></content>
+    <author>
+      <name>Jelly</name>
+    </author>
+    <category term="auto-task"/>
+    <contributor>
+      <name>Jelly</name>
+    </contributor>
+    <published>2022-01-23T00:00:00.000Z</published>
+    <rights>Copyright by Jelly</rights>
+  </entry>
+  <entry>
+    <title type="text">课表推送助手2.0</title>
+    <id>https://blog.jellyqwq.top/invalid/class-helper-2.html</id>
+    <link href="https://blog.jellyqwq.top/invalid/class-helper-2.html"/>
+    <updated>2023-05-07T16:29:09.000Z</updated>
+    <summary type="html"><![CDATA[<p>2022年5月7日的早八，我突然想到了解决微信客户端内置浏览器可以打开网页，但在默认浏览器打不开问题的办法。</p>
+<h3> 1.0回顾</h3>
+<p>1.0版本时我想过两种获取学校课表的办法，第一种是从学校官网获取课表及其调课信息，但是在做2.0的时我发候现，学校官网的调课信息存在滞后的问题；第二种是从学校公众号的课表里获取，但是这种方法在做1.0时我发现了其链接在电脑的浏览器上没能打开，显示请在微信客户端打开，当时我搜索的方式不对，没能找到正确的解决办法。</p>
+<h3> 奇思妙想</h3>
+<p>今天思考着为什么微信的内置浏览器可以打开的链接为什么到默认浏览器就打不开了呢？他是怎么知道我不是用微信的客户端访问的呢？都是同一个链接访问，到默认浏览器就被重定向了。我想起请求头（Request Headers），对url请求资源肯定离不开请求头，爬虫第一课教的就是UA伪装，但讲到的大都是伪装浏览器，不让服务器检测到是爬虫的请求。但我现在觉得，UA更重要的是去模拟客户端，完成对客户端的请求。</p>]]></summary>
+    <content type="html"><![CDATA[<p>2022年5月7日的早八，我突然想到了解决微信客户端内置浏览器可以打开网页，但在默认浏览器打不开问题的办法。</p>
+<h3> 1.0回顾</h3>
+<p>1.0版本时我想过两种获取学校课表的办法，第一种是从学校官网获取课表及其调课信息，但是在做2.0的时我发候现，学校官网的调课信息存在滞后的问题；第二种是从学校公众号的课表里获取，但是这种方法在做1.0时我发现了其链接在电脑的浏览器上没能打开，显示请在微信客户端打开，当时我搜索的方式不对，没能找到正确的解决办法。</p>
+<h3> 奇思妙想</h3>
+<p>今天思考着为什么微信的内置浏览器可以打开的链接为什么到默认浏览器就打不开了呢？他是怎么知道我不是用微信的客户端访问的呢？都是同一个链接访问，到默认浏览器就被重定向了。我想起请求头（Request Headers），对url请求资源肯定离不开请求头，爬虫第一课教的就是UA伪装，但讲到的大都是伪装浏览器，不让服务器检测到是爬虫的请求。但我现在觉得，UA更重要的是去模拟客户端，完成对客户端的请求。</p>
+<p>在2.0版本中，使用了微信客户端独有的UA去请求，完成了对微信内浏览器的请求模拟，获取到了学校课表的api。</p>
+<p>所以在2.0中，只需完成邮箱注册，并填写学号（xd）和身份识别字符串（openid）即可开启课表推送服务，在2.0中为了避免1.0在本地的跑python既不美观也难兼容的问题，决定改到web端操作，主要是不需要去填写课表了。在数据的结构处理上，1.0需要班级课表文件和个人配置文件，但在2.0将改为MongoDB数据库存储账号及其配置。暂时就想到这么个架构。</p>
+<h3> 实践过程</h3>
+<p>首先，考虑到项目的兼容性和体量，不打算用requests模块，用原生urllib库完成网络资源的请求。这里对urllib的post请求过程封装到一个函数当中。</p>
+<div class="language-python line-numbers-mode" data-ext="py"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h4> 请求标头和请求参数</h4>
+<div class="language-python line-numbers-mode" data-ext="py"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>在微信的公众号的课表当中（红色方框中）可以获取该页链接。链接具体长下面这样，这样可以拿到自己的xh（xuehao）和openid了。</p>
+<blockquote>
+<p><a href="http://wecat.hnkjedu.cn/kingojw/xskb.aspx?xh=%E5%AD%A6%E5%8F%B7&amp;openid=%E8%BA%AB%E4%BB%BDid" target="_blank" rel="noopener noreferrer">http://wecat.hnkjedu.cn/kingojw/xskb.aspx?xh=学号&amp;openid=身份id</a></p>
+</blockquote>
+<figure><img src="https://cdn.jsdelivr.net/gh/jellyqwq/PictureBed@main/2022/8/98fd3f8d09e0b503b7712e2fffe0c7b966dbc65d1a15b1a62446e1aa84783384.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h4> 请求部分写法</h4>
+<div class="language-python line-numbers-mode" data-ext="py"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>接下来就要对课表进行解析了，课表的数据结构需要从星期开始读取，一星期7天分别为Kn(n∈N+,n≤7)，那么如何计算今天是星期几呢，这里采用datetime模块中的datetime类，并通过datetime.today().isoweekday()获取当天的星期几的整型表示。</p>
+<hr>
+<p>接着，先处理下数据库的问题，这里选择MongoDB数据库，MongoDB适合高迸发，可以提高服务端性能，也是为了后面对服务端可能进行的的go重构——咕咕，去<a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">MongoDB</a>下载，python也需要安装相应的第三方包pymongo来实现对数据库的访问。</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>把mongodb下好后，对于windows需要先创建数据库，这里参考了菜鸟教程的<a href="https://www.runoob.com/python3/python-mongodb.html" target="_blank" rel="noopener noreferrer">安装</a>，我也自己总结下吧。</p>
+<ol>
+<li>MongoDB安装后是全局作用的，不用可以装到哪个目录下</li>
+<li>安装后要添加bin文件到系统的环境变量当中</li>
+<li>在bin目录下的mongod.cfg文件当中可以指定数据库访问的端口</li>
+</ol>
+<h4> 细读后发现，当安装目录没有data和log的时候才需要进行下列操作</h4>
+<p>首先需要创建一个data目录，但是并不像教程里所讲的需要在根目录创建，在data目录中又要创建又有一个db目录（用于存放数据库的）和一个log目录（存放日志的），当mongodb的bin目录添加到环境变量当中，执行下列命令以初始化数据库，–dbpath正如字面意思，指定一个数据库目录的路径，后面的路径可以为用相对路径。</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>然后创建一个文件mongod.cfg，存哪都行，里面如下配置，path和dbPath都需要使用绝对路径，这里我把mongod.cfg放在了data中以方便我管理。</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>然后安装MongoDB服务，mongod.exe和上面的mongod一样，添加了环境变量即可使用，通过–config参数来指定数据库配置文件的路径，这个路径需要使用绝对路径，–install参数安装服务。</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>插入：启动/关闭/移除MongoDB服务的操作</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><hr>
+<p>好，回到项目当中，添加一个验证码的生成函数，至于要不要图还有待考虑，然后还有一个<a href="https://github.com/jellyqwq/class-helper/blob/main/class_helper/__init__.py#L63" target="_blank" rel="noopener noreferrer">发送验证码的函数</a>。</p>
+<p>这次吸取1.0的经验，把所有需要配置的参数和个性化定制全部独立到配置文件当中，所以在2.0中多了一个<a href="https://github.com/jellyqwq/class-helper/blob/main/class_helper/example.config.json" target="_blank" rel="noopener noreferrer">example.config.json</a>的配置文件。</p>
+<p>接着就是重头戏——api的搭建了，我这里先罗列下要做的api及其功能</p>
+<ol>
+<li>/user/signup  注册，将邮箱密码和用户名上传到服务器验证</li>
+<li>/sendvcode 发送验证码</li>
+<li>/emailexist 检查邮箱是否被注册过</li>
+</ol>
+<p>创建账号的实现</p>
+<div class="language-flow line-numbers-mode" data-ext="flow"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><hr>
+<h3> web端</h3>
+<p>在web使用post请求时，发现请求不到后台的api数据，显示如下</p>
+<p>Browser Console</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div><p>DOM-jQuery</p>
+<div class="language-javascript line-numbers-mode" data-ext="js"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>Flask-localhost:4443</p>
+<div class="language-python line-numbers-mode" data-ext="py"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>通过控制台的报错提示可以知道，在js发出post的跨域资源请求时返回的资源没有<code>Access-Control-Allow-Origin</code>这个头部，导致获取响应资源失败。通过查询找到了解决办法，在flask中可以通过flask.make_response(*args)来生成一个响应对象，这个对象可以设置<code>Response Headers</code>的参数，可以通过<code>response[key] = value</code>来设置，或者用response对象的相应属性来修改。</p>
+<p>那么，我把解决的方法封装到了函数当中，如下。</p>
+<div class="language-python line-numbers-mode" data-ext="py"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>Flask中修改为</p>
+<div class="language-python line-numbers-mode" data-ext="py"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>]]></content>
+    <author>
+      <name>Jelly</name>
+    </author>
+    <category term="Python"/>
+    <contributor>
+      <name>Jelly</name>
+    </contributor>
+    <published>2022-05-08T00:00:00.000Z</published>
+    <rights>Copyright by Jelly</rights>
+  </entry>
+  <entry>
+    <title type="text">课表推送助手</title>
+    <id>https://blog.jellyqwq.top/invalid/class-helper.html</id>
+    <link href="https://blog.jellyqwq.top/invalid/class-helper.html"/>
+    <updated>2023-05-07T16:29:09.000Z</updated>
+    <summary type="html"><![CDATA[<p>由于找到了网页版查看微信公众号的方法, 也就是在User-Agent中加入一个代表微信的字串, 所以可以直接调用学校公众号课表的接口获取数据. 所以之前的步骤通通不用, 只需要使用网页端存放openid以及推送的token即可.</p>
+<p>更新详情: <a href="https://github.com/jellyqwq/class-helper#readme" target="_blank" rel="noopener noreferrer">https://github.com/jellyqwq/class-helper#readme</a></p>
+<p>项目地址: <a href="https://github.com/jellyqwq/class-helper" target="_blank" rel="noopener noreferrer">https://github.com/jellyqwq/class-helper</a></p>]]></summary>
+    <content type="html"><![CDATA[<p>由于找到了网页版查看微信公众号的方法, 也就是在User-Agent中加入一个代表微信的字串, 所以可以直接调用学校公众号课表的接口获取数据. 所以之前的步骤通通不用, 只需要使用网页端存放openid以及推送的token即可.</p>
+<p>更新详情: <a href="https://github.com/jellyqwq/class-helper#readme" target="_blank" rel="noopener noreferrer">https://github.com/jellyqwq/class-helper#readme</a></p>
+<p>项目地址: <a href="https://github.com/jellyqwq/class-helper" target="_blank" rel="noopener noreferrer">https://github.com/jellyqwq/class-helper</a></p>
+<p>新文章: <a href="/invalid/class-helper-2.html" target="blank">课表推送助手2.0</a></p>
+<hr>
+<h3> 过去更新</h3>
+<p>学校下发的课程表都是图片，每次翻都非常不方便，而且经常有调换课，发的调换课的通知图片即使收藏起来也相当不便，于是我想到了可以做一个课程表推送，基于主课表对个人课表微调。</p>
+<p>可以使用客户端<s>class-helper-client</s>提交自己的选修课信息和调课信息</p>
+<p>做的过程也遇到不少麻烦，比如，腾讯的DNS没能正常给我的api域名解析，导致客户端调试时一直显示超时，但是把api域名直接改成服务器ip就没问题了</p>
+<p>做的过程也遇到不少麻烦，比如，腾讯的DNS没能正常给我的api域名解析，导致客户端调试时一直显示超时，但是把api域名直接改成服务器ip就没问题了</p>
+<p>整个项目主要包括了三大部分：</p>
+<ul>
+<li>每日定时运行的 <a href="http://main.py" target="_blank" rel="noopener noreferrer">main.py</a></li>
+<li>提供服务flask服务端 <a href="http://server.py" target="_blank" rel="noopener noreferrer">server.py</a></li>
+<li>客户端 <a href="http://client.py" target="_blank" rel="noopener noreferrer">client.py</a></li>
+</ul>
+<p>其中main.py和server.py是放在服务器上同一个目录下运行的</p>
+<p><a href="http://server.py" target="_blank" rel="noopener noreferrer">server.py</a> 文件需要进行一定配置，因为用到了qq邮箱的SMTP服务，在文件里面需要填写QQ号、<a href="https://jingyan.baidu.com/article/b0b63dbf1b2ef54a49307054.html" target="_blank" rel="noopener noreferrer">SMTP服务授权码</a>以及QQ邮箱，这个邮箱服务是为了客户端注册和重置密码用的</p>
+<p><a href="http://main.py" target="_blank" rel="noopener noreferrer">main.py</a> 默认设置了每天6点运行一次</p>
+<p><a href="http://client.py" target="_blank" rel="noopener noreferrer">client.py</a> 考虑到不是每个人电脑上都有python运行环境，我就把客户端附带了python的虚拟环境，因此启动时需要用start.bat文件启动</p>
+<figure><img src="https://cdn.jsdelivr.net/gh/jellyqwq/PictureBed@main/2022/8/7113b115ba65504a56c8a966e3af3a00b9a12230f557de50b7870276647aaa97.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>双击启动start.bat后可以看到如下界面</p>
+<figure><img src="https://cdn.jsdelivr.net/gh/jellyqwq/PictureBed@main/2022/8/dec9eba32b8fec4b068b99f9afcb0cab9098dbf682e1b3d00d3209bc38a945f3.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>如果是新用户就先创建账号，创建成功后本地会缓存登录信息文件，下次登录就不需要再手动登录，不过也没有手动登录这个选项:(</p>
+<p>创建账号后会在当前文件夹下创建一个模板文件，名字是：学号(.json)  内容如下</p>
+<figure><img src="https://cdn.jsdelivr.net/gh/jellyqwq/PictureBed@main/2022/8/0ca5ea30397d70d17f09f3fd691949dfe0796ef52d40c6ae02819c12fe2d0ef3.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<ul>
+<li>student_id：创建时所使用的学号或账号</li>
+<li>class_name：所属班级的名称</li>
+<li>token：pushplus推送服务里的token</li>
+<li>info：选修课配置(字典对象)
+<ul>
+<li>Wed：字典键-&gt;星期的缩写参考：Mon、Tue、Wed、Thu、Fri、Sat、Sun(字典对象)
+<ul>
+<li>3：星期的下级结构是上课的时间序号(举个栗子:一节课在第5、6节上，那么他的时间序号即为6/2=3)和其对应的一个列表，因为课程都是一门课连着两节上的，所以结构就这样。(存放了多组字典对象的数组对象)
+<ul>
+<li>course-name：选修课名字</li>
+<li>course-teacher：老师姓名</li>
+<li>course-week：上课周数的数组</li>
+<li>course-position：上课的地点or教室</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>class_change：调课信息(存放了多组字典对象的数组对象)</li>
+</ul>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>接着就选4将配置信息提交到服务器即可</p>
+<h3> 注意</h3>
+<p>如果当天没有课程，是不会进行推送的</p>
+<p>pushplus需要在微信关注pushplus推送加并允许推送才能收到信息</p>
+<p>目前只有我自己班有相关信息，因此其他班注册了也没用，需要写一份原始课表，<s>原始课表模板</s></p>
+<h3> A&amp;Q</h3>
+<p>为什么要手动填写？</p>
+<p>因为学校教务系统提供的课表是图片，而且清晰度不算高，还有背景干扰，文字识别率低，固没用采用AI文字识别，同时手动填写也是为了课表信息的正确性和灵活性</p>
+]]></content>
+    <author>
+      <name>Jelly</name>
+    </author>
+    <category term="Python"/>
+    <contributor>
+      <name>Jelly</name>
+    </contributor>
+    <published>2022-04-17T00:00:00.000Z</published>
+    <rights>Copyright by Jelly</rights>
+  </entry>
+  <entry>
+    <title type="text">漫画狗漫画下载</title>
+    <id>https://blog.jellyqwq.top/invalid/manga-get.html</id>
+    <link href="https://blog.jellyqwq.top/invalid/manga-get.html"/>
+    <updated>2023-05-07T16:29:09.000Z</updated>
+    <summary type="html"><![CDATA[<h2> manga-get</h2>
+<p>我在了解galgame中接触到了一些漫画, 这些漫画大概率是不可能被做成番剧那样的视频的, 我就想找一些漫画网站看漫画, 但是有的网站弹窗太多, 页面不整洁, 加载太慢等诸多问题, 我就想直接把漫画下载到本地来看, 顺便巩固下最近学的知识。</p>
+<p>首先我着手对dogemanga（漫画狗）这个漫画网站进行分析, 从url来看主要分为三类页面：</p>
+<ol>
+<li>com/?=搜索内容/</li>
+<li>com/m/</li>
+<li>com/p/</li>
+</ol>
+<p>所以可以通过解析url来确定所在的页面。</p>
+<p>上述三个页面中内容的关系为：1-匹配结果（可能与搜索有关的漫画有关的漫画）&gt;2-漫画所包含的（话/卷）&gt;3-（话/卷）所含的每一页。</p>]]></summary>
+    <content type="html"><![CDATA[<h2> manga-get</h2>
+<p>我在了解galgame中接触到了一些漫画, 这些漫画大概率是不可能被做成番剧那样的视频的, 我就想找一些漫画网站看漫画, 但是有的网站弹窗太多, 页面不整洁, 加载太慢等诸多问题, 我就想直接把漫画下载到本地来看, 顺便巩固下最近学的知识。</p>
+<p>首先我着手对dogemanga（漫画狗）这个漫画网站进行分析, 从url来看主要分为三类页面：</p>
+<ol>
+<li>com/?=搜索内容/</li>
+<li>com/m/</li>
+<li>com/p/</li>
+</ol>
+<p>所以可以通过解析url来确定所在的页面。</p>
+<p>上述三个页面中内容的关系为：1-匹配结果（可能与搜索有关的漫画有关的漫画）&gt;2-漫画所包含的（话/卷）&gt;3-（话/卷）所含的每一页。</p>
+<p>我把项目manga-get写成了由main.py为启动文件, request_site.py的网页请求模块, url_analysis.py的url解析模块, manga_save.py的下载模块, 以及用于存放各类漫画网站解析的manga_site包构成。</p>
+<p>因为dogemanga网站url可以通过/?=漫画名字/获得一个网页, 也就可以实现把搜索过程放到脚本进行, 通过输入要搜索的内容, 提交请求, 获取响应网页, 解析网页元素并反馈出来, 再选择下载。</p>
+<h3> 项目地址</h3>
+<p><a href="https://github.com/jellyqwq/manga-get" target="_blank" rel="noopener noreferrer">https://github.com/jellyqwq/manga-get</a></p>
+<h3> 更新状况</h3>
+<ul>
+<li>2021.12.18 增加了多进程下载, 提高了下载速度。不过受制于python的GIL的设计——CPU的每个核心只会同时进行一个线程的运算, 所以速度的提升受制于CPU的核心数。</li>
+<li>2021.12.15 增加了q页面的漫画下载；增加大文件夹对每一话进行分类存放；下载方式修改为升序下载；增加对未下完的漫画的续下, 只需粘贴上一次未下载完成的网址即可。</li>
+<li>2021.12.12 manga-get首次发布。</li>
+</ul>
+<h3> 支持的网站</h3>
+<table>
+<thead>
+<tr>
+<th>域名</th>
+<th>支持性</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="http://dogemanga.com" target="_blank" rel="noopener noreferrer">dogemanga.com</a></td>
+<td>ok</td>
+</tr>
+</tbody>
+</table>
+<p>dogemanga网站可以选择用搜索页即url中有/?q=xxx/的下载, 也可以用com/m/xxx或者com/p/xxx类型的url下载。</p>
+<p>现进行搜索功能的开发, 依然是利用网站的特性, (<a href="https://dogemanga.com/?q=%E6%90%9C%E7%B4%A2" target="_blank" rel="noopener noreferrer">https://dogemanga.com/?q=搜索</a>) 结果会返回一个索引页, 要对这个索引页解析, 老规矩bs4解析, 但是这次学聪明了</p>
+]]></content>
+    <author>
+      <name>Jelly</name>
+    </author>
+    <category term="Python"/>
+    <contributor>
+      <name>Jelly</name>
+    </contributor>
+    <published>2021-12-12T00:00:00.000Z</published>
+    <rights>Copyright by Jelly</rights>
+  </entry>
+  <entry>
+    <title type="text">Python NCRE 2</title>
+    <id>https://blog.jellyqwq.top/other/ncre-level2-note.html</id>
+    <link href="https://blog.jellyqwq.top/other/ncre-level2-note.html"/>
+    <updated>2023-05-07T16:29:09.000Z</updated>
+    <summary type="html"><![CDATA[<p>Python二级错题本</p>
+]]></summary>
+    <content type="html"><![CDATA[<p>Python二级错题本</p>
+<!-- more -->
+<h2> Python</h2>
+<p>看对选错, 对错混淆</p>
+<p>python面向过程,也面向对象</p>
+<p>函数是否return?, 对全局变量修改还是对函数内部变量的修改</p>
+<p>python各进制表达<br>
+0b1010 二进制<br>
+0o1010 八进制<br>
+0x1010 十六进制</p>
+<p>f.readlines() 返回一行列表,里面包括文件每行的字符串</p>
+<p>格式化要求错误, "{:-&gt;10.2f}".format() 表示右对齐, 长度为10, 其余部分用"-"补齐, 保留两位小数 ,f:小数类型.<br>
+带千分位的话就在.2f前加",", 即"{:-&gt;10,.2f}", 这种格式化在超出指定长度时按真实长度输出</p>
+<p>变量名写错, IDLE改了而题里没改</p>
+<p>jieba库要求用lcut做全模式分词, 没加, cut_all=True</p>
+<p>在程序间交换数据常用的第三方库是json🤔(不是Pandas, 但json是原生库)</p>
+<p>序列类型是一维元素向量</p>
+<p>字符串比大小: 按位比ASCII码大小, <strong>ASCII递增: 空格0-9A-Za-z</strong></p>
+<p>Python 字符编码可以使用 ASCII 编码和 Unicode 编码。</p>
+<p>集合类型和映射类型都是没有顺序的数据类型,不能通过序号访问</p>
+<p>当while循环在执行过程中产生不满足继续循环的值时也会继续完成本次循环未执行的代码</p>
+<blockquote>
+<p>使用赋值语句生成元组的两种方式, <strong>没有括号也可以</strong></p>
+</blockquote>
+<div class="language-python line-numbers-mode" data-ext="py"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><blockquote>
+<p>实部与实部相加,虚部与虚部相加,最后得到0j,注意当虚部为0时, j依然不能省略</p>
+</blockquote>
+<div class="language-python line-numbers-mode" data-ext="py"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><blockquote>
+<p>for 遍历字典的时候是取 key</p>
+</blockquote>
+<div class="language-python line-numbers-mode" data-ext="py"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><blockquote>
+<p>当';'.join(string)中string只有一个元素(字符)时,";"不显示</p>
+</blockquote>
+<div class="language-python line-numbers-mode" data-ext="py"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><blockquote>
+<p>字符串对象的join(s)方法的参数s只能是字符串或包含纯字符串的列表</p>
+</blockquote>
+<div class="language-python line-numbers-mode" data-ext="py"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><blockquote>
+<p>string.center(10,"*"), 第二个参数必须是字符</p>
+</blockquote>
+<div class="language-python line-numbers-mode" data-ext="py"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><blockquote>
+<p>dict.values()类型是dict_values</p>
+</blockquote>
+<div class="language-python line-numbers-mode" data-ext="py"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3> pip参数</h3>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3> Pyinstaller</h3>
+<blockquote>
+<p>-D 目录打包, -F单文件打包</p>
+</blockquote>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div><h3> turtle</h3>
+<blockquote>
+<p>setup() - 函数打开一个自定义大小和位置的画布</p>
+</blockquote>
+<blockquote>
+<p>shape() - 函数用于设置绘图箭头的形状</p>
+</blockquote>
+<blockquote>
+<p>getscreen() - 函数返回一个TurtleScreen类的绘图对象</p>
+</blockquote>
+<blockquote>
+<p>width() - 设置画笔宽度，当无参数输入时返回当前画笔宽度</p>
+</blockquote>
+<h3> random</h3>
+<blockquote>
+<p>randint(a, b)和uniform(a, b)都是 <code>[a,b]</code> 区间, 后者用于生成小数</p>
+</blockquote>
+<div class="language-python line-numbers-mode" data-ext="py"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3> string</h3>
+<blockquote>
+<p>string.printable 包含的字符定义如下</p>
+</blockquote>
+<div class="language-python line-numbers-mode" data-ext="py"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><blockquote>
+<p>'asdf'字符串并不连续, 所以该字符串不在printable字符串内</p>
+</blockquote>
+<div class="language-python line-numbers-mode" data-ext="py"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3> 列表</h3>
+<blockquote>
+<p>列表可以比较</p>
+</blockquote>
+<div class="language-python line-numbers-mode" data-ext="py"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3> 内置函数</h3>
+<blockquote>
+<p>min() - 列表</p>
+</blockquote>
+<div class="language-python line-numbers-mode" data-ext="py"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><blockquote>
+<p>min() - 字典比key</p>
+</blockquote>
+<div class="language-python line-numbers-mode" data-ext="py"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div><blockquote>
+<p>除法运算即使能整除也是返回小数类型的</p>
+</blockquote>
+<div class="language-python line-numbers-mode" data-ext="py"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div><blockquote>
+<p>round(x)：返回对x四舍五入的整数值, 实际上是对大于5的进行五入操作</p>
+</blockquote>
+<div class="language-python line-numbers-mode" data-ext="py"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><blockquote>
+<p>sorted(): 返回一个列表</p>
+</blockquote>
+<div class="language-python line-numbers-mode" data-ext="py"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3> 字符串类</h3>
+<blockquote>
+<p>字符串索引截取</p>
+</blockquote>
+<div class="language-python line-numbers-mode" data-ext="py"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><blockquote>
+<p>format格式化字符串时, '{{}}'输出的是'{}', 取消了格式化位</p>
+</blockquote>
+<div class="language-python line-numbers-mode" data-ext="py"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3> 标准库的一些函数</h3>
+<blockquote>
+<p>time.ctime()</p>
+</blockquote>
+<div class="language-python line-numbers-mode" data-ext="py"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3> 第三方库</h3>
+<blockquote>
+<p>数据分析和可视化是两类</p>
+</blockquote>
+<ol>
+<li>MXNet - 亚马逊（Amazon）选择的深度学习库</li>
+<li>Keras - 开源人工神经网络库</li>
+<li>Seaborn - 基于matplotlib的可视化库</li>
+<li>numpy、scipy、pandas - 数据分析方向</li>
+<li>matplotlib、TVTK、mayavi - 数据可视化析</li>
+<li>PyQt5、wxPython、PyGTK - 开发用户界面</li>
+<li>Flask、Django、Pyramid - Web 开发框架</li>
+<li>TimeSide用于web的开源音频处理框架</li>
+</ol>
+<h3> 文件io</h3>
+<p>文件读取方法：read、readline、readlines、seek</p>
+<p>文件写入方法：write、writelines</p>
+<p>Python文件打开模式: 'r'、'w'、'x'、'a'、'b'、't'、'+', 其中'r'、'w'、'x'、'a'可以和'b'、't'、'+'组合使用。'x'是写模式，新建一个文件，如果文件存在会报错；'t'是文本模式（默认）。</p>
+<p>r+：可读可写，若文件不存在，报错</p>
+<p>w+：可读可写，若文件不存在，创建</p>
+<p>""是字符串中的转义符，所以表示路径时，使用 "\\" 或 "/" 或 "//" 代替 "\"</p>
+<blockquote>
+<p>open打开的文件对象是可输出的</p>
+</blockquote>
+<div class="language-python line-numbers-mode" data-ext="py"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3> 对象有如下一些基本特点</h3>
+<ol>
+<li>标识唯一性</li>
+<li>分类性</li>
+<li>多态性</li>
+<li>封装性</li>
+</ol>
+<h3> 字符串对象</h3>
+<blockquote>
+<p>upper()是字符串对象的方法. len()内置函数可以获取字符串长度</p>
+</blockquote>
+<div class="language-python line-numbers-mode" data-ext="py"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3> 其他</h3>
+<blockquote>
+<p>for遍历一个列表的时候对列表长度修改会提前或延迟结束遍历</p>
+</blockquote>
+<div class="language-python line-numbers-mode" data-ext="py"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><blockquote>
+<p>但是, 给迭代对象套一个range后, 循环次数将会被锁住, 不随列表的动态变化而变化</p>
+</blockquote>
+<div class="language-python line-numbers-mode" data-ext="py"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><blockquote>
+<p>[Feature] 函数中对未进行传参的默认参数的进行自修改</p>
+</blockquote>
+<div class="language-python line-numbers-mode" data-ext="py"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2> 算法</h2>
+<p>冒泡排序、快速排序、简单选择排序的最坏时间复杂度是 O(n^2)。希尔排序的时间复杂度与增量序列的选取有关，最坏情况下比其他三种排序更快。</p>
+<h2> 数据结构</h2>
+<p>双向链表不是非线性结构，是线性结构；二叉链表是树的实现方式，是非线性结构，所以链表可以是线性结构也可以是非线性结构。</p>
+<p>在任意二叉树中，度为 0 的结点即叶子结点总是比度为 2 的结点多一个</p>
+<p><a href="https://blog.csdn.net/heihaozi/article/details/103938367" target="_blank" rel="noopener noreferrer">二叉树前序遍历、中序遍历和后序遍历</a>（二叉树前中后序，前序后序定节点，中序定左右）</p>
+<p>元素集合的线性结构</p>
+<p>循环队列在不为空的情况下至少空一位</p>
+<p>线性表、向量、栈、队列都属于线性结构的顺序存储。</p>
+<p>只有一个根结点和一个叶子结点，其表述本身指定其数据类型为树形结构，因为只有两个结点，所以也不能称之为线性结构。</p>
+<p>树作为一种应用广泛的一对多非线性数据结构，拥有两种不同的存储结构，可以用顺序存储或链式存储。</p>
+<p>二叉树就是非线性结构</p>
+<blockquote>
+<p>树用度求叶子结点数</p>
+</blockquote>
+<p>树的总结点数为度为3的结点数+度为2的结点数+度为1的结点数+度为0的结点数,即为4+1+3+n。再根据树的总结点数为树中所有结点的度数之和再加1 ,则总结点数为3x4+2x1+ 1x3+0xn+1。3x4+2*1+1x3+1-4+1+3+n, 则n=10 ,叶子结点数为10。</p>
+<h2> 数据库</h2>
+<p>数据库系统的三级模式包括：概念模式、外模式(子模式或用户模式)、内模式。一个概念模式可以有若干个外模式</p>
+<p>物理数据模型又称物理模型，它是一种面向计算机物理表示的模型，此模型给出了数据模型在计算机上物理结构的表示</p>
+<p><strong>层次模型</strong>是最早发展出来的数据库模型。它的基本结构是<strong>树型结构</strong>，这种结构方式在现实世界中很普遍，如家族结构、行政组织机构，它们自顶向下、层次分明。</p>
+<h3> 关系</h3>
+<p>笛卡尔积的定义是设关系R和S的元数分别是r和s，R和S的笛卡尔积是一个（r+s）元属性的集合，每一个元组的前r个分量来自R的一个元组，后s个分量来自s的一个元组。所以关系T的属性元数是3+4=7.</p>
+<p>关系模型采用二维表来表示，简称表。在表框架中按行可以存放数据，每行数据称为元组，二维表中的元组均不相同。</p>
+<p>中学教师和授课班级：多对多（中学教师是一个集体）</p>
+<p>把现实世界中的客观对象抽象为某一种信息结构，这种信息结构并不依赖于具体的计算机系统，不是某一个数据库管理系统（DBMS）支持的数据模型，而是概念级的模型，称为概念模型。<strong>概念模型与DBMS无关</strong></p>
+<p>数据库设计包括概念设计、逻辑设计和建立数据库(物理结构)</p>
+<h3> 范式</h3>
+<ol>
+<li>每个属性不可再分</li>
+<li>先找出能识别记录的主键(1个以上) &gt; 不能产生部分依赖</li>
+<li>非主键不产生传递依赖</li>
+</ol>
+<p>每个属性都已不能再分为简单项，则它属于第一范式模式。</p>
+<p>第二范式首先是第一范式，另外包含两部分内容，一是表必须有一个主键；二是没有包含在主键中的属性必须完全依赖于主键，而不能只依赖于主键的一部分。</p>
+<p>第三范式首先是第二范式，另外非主键属性必须直接依赖于主键，不能存在传递依赖。</p>
+<h3> DBMS</h3>
+<p><strong>数据操纵</strong>，数据库管理系统为用户使用数据库中的数据提供方便，它一般提供查询、插入、修改以及删除数据的功能。</p>
+<h2> 软件工程</h2>
+<p>软件在运行期间不会因为介质的磨损而老化，只可能应为适应硬件环境以及需求变化进行修改而引入错误, 导致失效率升高从而软件退化。</p>
+<h3> 软件测试</h3>
+<blockquote>
+<p>软件测试的目的就是尽可能多地发现程序中的错误</p>
+</blockquote>
+<ol>
+<li>软件测试是为了发现错误而执行程序的过程</li>
+<li>个好的测试用例是指很可能找到迄今为止尚未发现的错误的用例</li>
+<li>一个成功的测试是发现了至今尚未发现的错误的测试</li>
+<li>动态测试是基于计算机的测试，是为了发现错误而执行程序的过程。<strong>白盒测试</strong>的主要方法有<strong>逻辑覆盖测试</strong>、<strong>基本路径测试</strong>等。</li>
+<li>基本路径测试的思想和步骤是，根据软件过程性描述中的控制流程确定程序的环路复杂性度量，用此度量定义基本路径集合，并由此导出一组测试用例对每一条独立执行路径进行测试。</li>
+<li>程序调试的基本步骤: <strong>错误定位</strong>, <strong>回归测试</strong>, 防止引入新错误, 修改设计代码以排除错误</li>
+</ol>
+<p><strong>黑盒测试</strong>方法也称为<strong>功能测试</strong>或<strong>数据驱动测试</strong>。黑盒测试是对<strong>软件已经实现的功能</strong>是否满足需求进行测试和验证。黑盒测试完全不考虑程序内部的逻辑结构和内部特性，只依据程序的需求和功能规格说明，检查程序的功能是否符合它的功能说明。</p>
+<h3> 软件按功能分类</h3>
+<ol>
+<li>应用软件 - 为解决特定领域的应用而开发的软件。</li>
+<li>系统软件</li>
+<li>支撑软件（或工具软件）</li>
+</ol>
+<h3> 软件单元测试的内容</h3>
+<ol>
+<li>模块接口测试</li>
+<li>局部数据结构测试</li>
+<li>边界条件测试</li>
+<li>模块中所有独立路径测试</li>
+<li>比较判断与控制流常常紧密相关</li>
+</ol>
+<h3> 系统总体结构图</h3>
+<ol>
+<li>结构图的深度表示控制的层数</li>
+<li>结构图是描述软件结构的图形工具</li>
+<li>原子模块是不可再进行模块拆分的模块</li>
+<li>扇入是指模块受了多少个直接上级模块的调用</li>
+</ol>
+<h3> 数据流图(DFD | Data Flow Diagram)</h3>
+<ol>
+<li>数据流图是描述数据处理过程的工具，是需求理解的逻辑模型的图形表示，它直接支持系统的功能建模。</li>
+<li>数据流图中，数据流指暂时保存的数据，它可以是数据库文件或任何形式的数据组织，<strong>数据存储间不应该有数据流</strong>。</li>
+<li>数据流图中除了流向数据存储或从数据存储流出的数据不必命名外，每个数据流必须要有一个合适的名字，以反映该数据流的含义。</li>
+<li>相邻两层DFD之间具有父、子关系，子图代表了父图中某个加工的详细描述，父图表示了子图间的接口。子图个数不大于父图中的处理个数。所有子图的输入、输出数据流和父图中相应处理的输入、输出数据流必须一致。</li>
+</ol>
+<h3> 程序流程图 (PFD | Process Flow Diagram)</h3>
+<p>程序流程图（PFD）是一种传统的、应用广泛的软件过程设计表示工具，通常也称为程序框图，其箭头代表的是控制流</p>
+<h3> 顺序程序</h3>
+<ol>
+<li>顺序性</li>
+<li>封闭性</li>
+<li>可再现性</li>
+</ol>
+<h2> 计算机理论</h2>
+<p>进程是指一个具有一定独立功能的程序关于某个数据集合的一次运行活动. <strong>进程是程序的执行过程</strong>.</p>
+<p>一般把计算机完成一条指令所花费的时间统称为一个<strong>指令周期</strong>。指令周期越短，指令执行就越快。</p>
+<p>芯片内部连接各元件的总线称为内部总线。</p>
+<p>计算机中要使用外存储器中的信息，要现将其调入内存储器（CPU可以直接访问内存）</p>
+<p>定点数偏移码表示：不管是正数还是负数，其补码的符号位取反即是偏移码。</p>
+<p>常用的连续存储管理技术有<strong>固定分区存储管理</strong>和<strong>可变分区存储管理</strong></p>
+<p>一个完整的计算机系统应包括硬件系统和软件系统两大部分。</p>
+<p>计算机硬件系统由运算器、存储器、控制器、输入设备和输出设备五大基本部件组成。</p>
+<p>计算机内部使用二进制表示指令和数据。</p>
+<p><strong>虚拟存储器</strong>是对<strong>主存的逻辑扩展</strong>，使存储系统既具有相当于外存的容量又有接近于主存的访问速度。</p>
+<p>通常，进程创建完成后会进入就绪状态，在运行、阻塞和就绪间迁移，进行相关的任务执行；完成相关任务后，由运行状态进入终止状态，结束进程并释放相关资源。</p>
+<p>多道程序设计技术是指允许多个程序同时进入内存并运行。即同时把多个程序放入内存，并允许它们交替在CPU中运行，多个程序可共享系统中的各种硬、软件资源。当一个程序因I/O请求而暂停运行时，CPU便立即转去运行另一个程序。</p>
+<p>断电后其中信息会丢失的是<strong>RAM</strong>，RAM就是随机存取存储器，是与CPU直接交换数据的内部存储器。它可以随时读写，而且速度很快，通常作为操作系统或其他正在运行中的程序的临时数据存储介质。RAM在计算机和数字系统中用来暂时存储程序、数据和中间结果。</p>
+<p>文件系统就是操作系统中实现文件统一管理的一组软件、被管理的文件以及为实施文件管理所需要的一些数据结构的总称。</p>
+<p><strong>SPOOLing系统</strong>实现设备管理的<strong>虚拟技术</strong>，即：将独占设备改造为<strong>共享</strong>设备。它由专门负责I/O的常驻内存的进程以及输入井、输出井组成。</p>
+<h3> 计算机总线</h3>
+<ol>
+<li><strong>控制总线</strong>传送的是各种控制信号，有CPU至存储器、I/O接口设备的控制信号，有I/O接口送向CPU的应答信号、请求信号，因此，控制总线上的信息是<strong>双向传输</strong>的。</li>
+<li><strong>数据总线</strong>是CPU与存储器、CPU与I/O接口设备之间传送数据信息（各种指令数据信息）的总线，这些信号通过数据总线往返于CPU与存储器、CPU与I/O接口设备之间，因此，数据总线上的信息是<strong>双向传输</strong>的。</li>
+<li><strong>地址总线</strong>上传送的是CPU向存储器、I/O接口设备发出的地址信息，寻址能力是CPU特有的功能，地址总线上传送的地址信息仅由CPU发出，因此，地址总线上的信息是<strong>单向传输</strong>的。</li>
+</ol>
+<h3> 进程的5种活动状态</h3>
+<ol>
+<li>运行状态</li>
+</ol>
+<blockquote>
+<p>处于运行状态的进程实际上正占据着CPU。显然，处于这种状态的进程数目不能多于CPU的数目。在单CPU的情况下，处于运行状态的进程只能有一个。</p>
+</blockquote>
+<ol start="2">
+<li>就绪状态</li>
+</ol>
+<blockquote>
+<p>这种状态下的进程已获得除CPU以外的一切所需资源，只是因为缺少CPU而不能运行，一旦获得CPU，它就立即投入运行。</p>
+</blockquote>
+<ol start="3">
+<li>等待状态</li>
+</ol>
+<blockquote>
+<p>一个进程正在等待某一事件的发生而暂时停止执行。在这种状态下，即使把CPU分配给它，该进程也不能运行，即处于等待状态，又称为阻塞状态或封锁状态。</p>
+</blockquote>
+<ol start="4">
+<li>创建状态</li>
+</ol>
+<blockquote>
+<p>进程正在创建过程中，尚不能执行。</p>
+</blockquote>
+<ol start="5">
+<li>终止状态</li>
+</ol>
+<blockquote>
+<p>进程运行结束。</p>
+</blockquote>
+<h3> 进程3种状态转换条件</h3>
+<ol>
+<li>于就绪状态的进程，一旦分配到CPU，就转为运行状态。</li>
+<li>处于运行状态的进程，当需要等待某个事件发生才能继续运行时，则转为等待状态（阻塞状态）；或者由于分配给它的时间片用完，就让出CPU而转为就绪状态。</li>
+<li>处于等待状态的进程，如果它等待的事件已经发生，即条件得到满足，就转为就绪状态。</li>
+</ol>
+]]></content>
+    <author>
+      <name>Jelly</name>
+    </author>
+    <category term="Python"/>
+    <contributor>
+      <name>Jelly</name>
+    </contributor>
+    <published>2022-11-20T00:00:00.000Z</published>
+    <rights>Copyright by Jelly</rights>
+  </entry>
+  <entry>
+    <title type="text">Python NCRE Level 2</title>
+    <id>https://blog.jellyqwq.top/other/ncre-level2.html</id>
+    <link href="https://blog.jellyqwq.top/other/ncre-level2.html"/>
+    <updated>2023-05-07T16:29:09.000Z</updated>
+    <summary type="html"><![CDATA[<p>Python NCRE 2备考记录</p>
+]]></summary>
+    <content type="html"><![CDATA[<p>Python NCRE 2备考记录</p>
+<!-- more -->
+<h2> 2022-12-03</h2>
+<p>今天考完了, 考的题除了选择题不完全算原题, 剩下的大题都是<a href="https://python123.io" target="_blank" rel="noopener noreferrer">https://python123.io</a>原题, 把题都做过一遍上考场也就胸有成竹啦</p>
+<p>选择题也不过是那些考点, 在上述的网站里刷的选择题也能基本覆盖, 不过选择题的提分要很花时间, 至少公共基础的10分并不是那么好拿的, 所以我建议要多花时间在大题和python的相关题目上, python相关的30分单选还是属于简单好拿分的</p>
+<p>说下考试的感受吧, 进去输准考证, 然后等待监考员下达考试开始的指令, 就和普通的电脑没啥区别, 一个题目的窗口, 选择题比较特殊, 会锁定键盘和窗口, 也就是只有一次答选择题的机会, 只能用鼠标点击, IDEA什么的是用不了的. 我选择了先答大题, 因为不难, 是都做过的原题, 会有一个考生文件夹, 里面放了所有大题所需的文件</p>
+<p>如果过程不小心把文件损坏了, 可以通过题目的窗口复制题目的原文件</p>
+<div class="hint-container tip">
+<p class="hint-container-title">提示</p>
+<p>忘记的的函数名可以去IEDA里tab, 相当于代码提示, 善用help函数, IDEA的窗口也有help, 里面有离线文档, 当然这是下策, 最好是自己熟悉常用的函数</p>
+</div>
+<p>最后, 这是我在备考时的选择题的<a href="/other/ncre-level2-note.html" target="blank">部分总结</a></p>
+<hr>
+<p>Python作为我接触编程的第一门课让我对计算机非常感兴趣, 而大学专业课也涉及了Python, 所以用Python来过计算机二级也理所当然, 毕竟只要过二级就行.</p>
+<h3> 简述</h3>
+<p>注意: 以下所涉及的编程题都在Windows7操作系统上Python3.5.7以上的版本上完成</p>
+<ol>
+<li>单选题(40分) =&gt; 计算机通识(10分)+数据结构+Python基础知识. 这部分一共40分, 40道单选题, 刷题就行.</li>
+<li>编程题Ⅰ(40分) =&gt; 四道题, 每题10分, 比较基础, 题目会给出代码片段, 然后根据要求补全</li>
+<li>编程题Ⅱ(20分) =&gt; 比Ⅰ类题更具操作性</li>
+</ol>
+<h3> 参考资料</h3>
+<ol>
+<li><a href="https://blog.csdn.net/weixin_53466908/article/details/124930910" target="_blank" rel="noopener noreferrer">Python二级真题类型</a></li>
+<li><a href="https://ncre.neea.edu.cn/html1/report/21124/245-1.htm" target="_blank" rel="noopener noreferrer">Python考试大纲</a></li>
+<li><a href="https://www.zhihu.com/question/281129975/answer/1690998720" target="_blank" rel="noopener noreferrer">Python编程题类型讲解</a></li>
+<li><a href="https://ncre.neea.edu.cn/html1/report/22031/1703-1.htm" target="_blank" rel="noopener noreferrer">全国计算机等级考试教材目录</a></li>
+<li><a href="https://python123.io/" target="_blank" rel="noopener noreferrer">真题模拟</a></li>
+</ol>
+<h3> 计算机二级Python公共基础部分</h3>
+<p><a href="https://cloud.tencent.com/developer/article/2036783" target="_blank" rel="noopener noreferrer">https://cloud.tencent.com/developer/article/2036783</a></p>
+<h3> 计算机二级公共基础知识选择题真题【含解析】</h3>
+<p><a href="https://cloud.tencent.com/developer/article/2036417" target="_blank" rel="noopener noreferrer">https://cloud.tencent.com/developer/article/2036417</a></p>
+]]></content>
+    <author>
+      <name>Jelly</name>
+    </author>
+    <category term="Python"/>
+    <contributor>
+      <name>Jelly</name>
+    </contributor>
+    <published>2022-09-08T00:00:00.000Z</published>
+    <rights>Copyright by Jelly</rights>
+  </entry>
+  <entry>
+    <title type="text">Hello World</title>
+    <id>https://blog.jellyqwq.top/other/welcome_my_blog.html</id>
+    <link href="https://blog.jellyqwq.top/other/welcome_my_blog.html"/>
+    <updated>2023-05-07T16:29:09.000Z</updated>
+    <summary type="html"><![CDATA[<h1> 欢迎来到果冻の博客</h1>
+<p>本博客采用<a href="https://mrhope.site/" target="_blank" rel="noopener noreferrer">Mr.Hope</a>设计的<a href="https://github.com/vuepress-theme-hope/vuepress-theme-hope" target="_blank" rel="noopener noreferrer">vuepress-theme-hope</a>主题样式</p>
+<p><a href="/intro.html" target="blank">关于我</a></p>]]></summary>
+    <content type="html"><![CDATA[<h1> 欢迎来到果冻の博客</h1>
+<p>本博客采用<a href="https://mrhope.site/" target="_blank" rel="noopener noreferrer">Mr.Hope</a>设计的<a href="https://github.com/vuepress-theme-hope/vuepress-theme-hope" target="_blank" rel="noopener noreferrer">vuepress-theme-hope</a>主题样式</p>
+<p><a href="/intro.html" target="blank">关于我</a></p>
+]]></content>
+    <author>
+      <name>Jelly</name>
+    </author>
+    <category term="未分类"/>
+    <contributor>
+      <name>Jelly</name>
+    </contributor>
+    <published>2022-10-08T00:00:00.000Z</published>
+    <rights>Copyright by Jelly</rights>
+  </entry>
+  <entry>
+    <title type="text">torch.nn.Flatten 和 torch.flatten 的区别</title>
+    <id>https://blog.jellyqwq.top/note/ai/difference-between-nn.Flatten-and-flatten.html</id>
+    <link href="https://blog.jellyqwq.top/note/ai/difference-between-nn.Flatten-and-flatten.html"/>
+    <updated>2023-05-07T16:29:09.000Z</updated>
+    <summary type="html"><![CDATA[<p>torch.nn.Flatten()是一个用于对tensor降维的对象, 而torch.flatten()是一个用于对tensor降维的函数.</p>
+]]></summary>
+    <content type="html"><![CDATA[<p>torch.nn.Flatten()是一个用于对tensor降维的对象, 而torch.flatten()是一个用于对tensor降维的函数.</p>
+<!-- more -->
+<h2> torch.nn.Flatten</h2>
+<p><code>torch.nn.Flatten(start_dim=1, end_dim=-1)</code> 有两个参数表示降维维度的范围, 默认是从第二个维度(index 1)到最后一个维度(index -1)</p>
+<div class="language-python line-numbers-mode" data-ext="py"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>上述定义了一个四维的tensor, 使用默认的<code>torch.nn.Flatten()</code>实例化对象是取<code>index 1</code>到<code>index -1</code>对应上述的<code>input</code>就是<code>1, 5, 5</code>, 降维大小计算是降维前的大小累乘, 因此<code>output</code>的size是<code>[32, 1*5*5]</code>, 后者不用默认参数, 使用区间<code>[0, 2]</code>, 故降维后的size是<code>[32*1*5, 5]</code>.</p>
+<h2> torch.flatten</h2>
+<p><code>torch.flatten(input: Tensor, start_dim: _int = 0, end_dim: _int = -1)</code>, 是一个有三个参数的函数, 第一个<code>input</code>是输入的Tensor对象, 第二和第三个是维度索引的起始和结束.</p>
+<div class="language-python line-numbers-mode" data-ext="py"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>上述示例中, 默认的<code>torch.flatten()</code>使用区间<code>[0, -1]</code>, 即降至一维, 所以输出size是<code>[32*1*5*5]</code>.</p>
+<h2> 补充</h2>
+<p>对于一个<code>Tensor</code>对象而言, <code>.size()</code>方法和<code>.shape</code>属性都可获得该对象的<code>Size</code>.</p>
+<div class="language-python line-numbers-mode" data-ext="py"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2> 参考文献</h2>
+<ol>
+<li><a href="https://stackoverflow.com/questions/67460123/understanding-torch-nn-flatten" target="_blank" rel="noopener noreferrer">https://stackoverflow.com/questions/67460123/understanding-torch-nn-flatten</a></li>
+<li><a href="https://pytorch.org/docs/stable/generated/torch.randn.html" target="_blank" rel="noopener noreferrer">https://pytorch.org/docs/stable/generated/torch.randn.html</a></li>
+<li><a href="https://pytorch.org/docs/stable/generated/torch.nn.Flatten.html#torch.nn.Flatten" target="_blank" rel="noopener noreferrer">https://pytorch.org/docs/stable/generated/torch.nn.Flatten.html#torch.nn.Flatten</a></li>
+<li><a href="https://pytorch.org/docs/stable/generated/torch.flatten.html" target="_blank" rel="noopener noreferrer">https://pytorch.org/docs/stable/generated/torch.flatten.html</a></li>
+</ol>
+]]></content>
+    <author>
+      <name>Jelly</name>
+    </author>
+    <category term="AI"/>
+    <contributor>
+      <name>Jelly</name>
+    </contributor>
+    <published>2022-10-15T00:00:00.000Z</published>
+    <rights>Copyright by Jelly</rights>
+  </entry>
+  <entry>
+    <title type="text">torch.nn.Linear</title>
+    <id>https://blog.jellyqwq.top/note/ai/torch.nn.Linear.html</id>
+    <link href="https://blog.jellyqwq.top/note/ai/torch.nn.Linear.html"/>
+    <updated>2023-05-07T16:29:09.000Z</updated>
+    <summary type="html"><![CDATA[<p>本文讲述了torch.nn.Linear对象是怎么完成计算过程</p>
+]]></summary>
+    <content type="html"><![CDATA[<p>本文讲述了torch.nn.Linear对象是怎么完成计算过程</p>
+<!-- more -->
+<h2> 简述</h2>
+<p>torch.nn.Linear是一个用于线性变换(linear transformation)的对象, 它有三个参数</p>
+<p>in_features: 输入特征, 输入张量的最后一个维度大小, <code>torch.Size([N,*,in_features])</code></p>
+<p>out_features: 输出特征, 输出张量的最后一个维度大小, <code>torch.Size([N,*,out_features])</code></p>
+<p>bias: 偏差值, 对线性变换进行拟合</p>
+<h2> 公式说明</h2>
+<p>在<a href="https://pytorch.org/docs/stable/generated/torch.nn.Linear.html#torch.nn.Linear" target="_blank" rel="noopener noreferrer">Pytorch文档</a>中给到的公式是 $y=xA^T+b$</p>
+<p>y: 每个输出层<br>
+x: 每个输入层<br>
+A: weight, 在Linear对象初始化时随机生成<br>
+b: bias, 也在Linear对象初始化时随机生成</p>
+<p>结合实例来看下</p>
+<div class="language-python line-numbers-mode" data-ext="py"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>所以实际上是$y = input @ linear.weight^T + linear.bias$</p>
+<div class="language-python line-numbers-mode" data-ext="py"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2> 参考文献</h2>
+<ol>
+<li><a href="https://pytorch.org/docs/stable/generated/torch.nn.Linear.html#torch.nn.Linear" target="_blank" rel="noopener noreferrer">https://pytorch.org/docs/stable/generated/torch.nn.Linear.html#torch.nn.Linear</a></li>
+<li><a href="https://ckmarkoh.github.io/blog/2016/12/19/torch-nn-tutorial-1-nn-module/" target="_blank" rel="noopener noreferrer">https://ckmarkoh.github.io/blog/2016/12/19/torch-nn-tutorial-1-nn-module/</a></li>
+<li><a href="https://ashwinhprasad.medium.com/pytorch-for-deep-learning-nn-linear-and-nn-relu-explained-77f3e1007dbb" target="_blank" rel="noopener noreferrer">https://ashwinhprasad.medium.com/pytorch-for-deep-learning-nn-linear-and-nn-relu-explained-77f3e1007dbb</a></li>
+</ol>
+]]></content>
+    <author>
+      <name>Jelly</name>
+    </author>
+    <category term="AI"/>
+    <contributor>
+      <name>Jelly</name>
+    </contributor>
+    <published>2022-10-20T00:00:00.000Z</published>
+    <rights>Copyright by Jelly</rights>
+  </entry>
+  <entry>
+    <title type="text">科目三</title>
+    <id>https://blog.jellyqwq.top/note/experience/driving-license-subject-3.html</id>
+    <link href="https://blog.jellyqwq.top/note/experience/driving-license-subject-3.html"/>
+    <updated>2023-05-07T16:29:09.000Z</updated>
+    <summary type="html"><![CDATA[<h1> 科三小记</h1>
+<p>今天迎来了科目三考试，兴奋和紧张互相交织，多云，虽然前天天气预报今天会下雨，可老天终究把这口（水蒸）气给咽了下去。</p>
+<p>科目三主阵地，也是二号线的所在地，教练早早地带我们来这走了一圈——其实是顺路绕个圈到考场门口。</p>
+<p>科目三很多考生前来参加考试，大概这么多人↓，当然还不止。</p>
+<figure><img src="https://cdn.jsdelivr.net/gh/jellyqwq/PictureBed@main/2022/8/a87f8827be11e986c93c8c9802ea9ed506a13c6a29118707e75cf476e3be9772.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>]]></summary>
+    <content type="html"><![CDATA[<h1> 科三小记</h1>
+<p>今天迎来了科目三考试，兴奋和紧张互相交织，多云，虽然前天天气预报今天会下雨，可老天终究把这口（水蒸）气给咽了下去。</p>
+<p>科目三主阵地，也是二号线的所在地，教练早早地带我们来这走了一圈——其实是顺路绕个圈到考场门口。</p>
+<p>科目三很多考生前来参加考试，大概这么多人↓，当然还不止。</p>
+<figure><img src="https://cdn.jsdelivr.net/gh/jellyqwq/PictureBed@main/2022/8/a87f8827be11e986c93c8c9802ea9ed506a13c6a29118707e75cf476e3be9772.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>手机不能带进去，为了考完试能及时练习到教练，手机都以5￥一台的价格寄存在门口的小卖部，小卖部老板业务能力相当强，我觉得——这个小卖部是科目三当之无愧的第一配套设施了。</p>
+<p>检测完行程卡和绿码，手机一存，就开始考试前的漫长等待了，手中的材料只有打印的线路图，就这样坐在候考室等……我以为是从左依次上车，结果发现不是，似乎是遵循一定的顺序的，待考室有个电视机，里面放着交通事故的录像，额……以及一首改编的交通安全歌，还是挺有意思的，看了好几遍，等到快中午了才轮到我。</p>
+<p>安全员看起来还是很和善的，当然只能是看起来，毕竟安全员也不能说什么话，一般可能就“准备好了没有”或者“下车”，额因为二号线总体一条直线一个来回，两边都有红绿灯，所以车流量相当稳定，有社会车辆时就可以选择不起步，但是一定要注意灯光。</p>
+<p>我是比较怂的，考试一定要怂，等到完全没车了再起步，前面说了，快中午了，安全员可能着急吃饭吧，就催促我说，“请起步继续完成考试”。</p>
+<p>第一次起步，车太多，前面有车，我离合下去了，准备挂挡，然后又没挂，过了一会我又重复刚刚的动作，这次多了个松手刹，但是我觉得车还是太多了，我又把手刹提回来，空了档，松了离合继续等，就这么几次操作下来，安全员又说，“请起步继续完成考试”，得，我看后方车辆清空了，前方也有足够的距离后，我终于起步了，前面的项目还算顺利，我都平稳地过了，但是回来方向时，我把超车项目记成了在学校区域后面，我就在前面的斑马线前停下，此时又有一位老奶奶从左边绕到我前面，我更不敢走了，安全员有喊出了那句正常情况下唯一能说的话了，我这时还没意识到问题——还没到超车项目，我还在一档溜车，安全员在旁遍啧，可此时我也逐渐意识到问题，我加回2档30跑，然后跑过了公交站点刹减速，然后语音报了我在合适地点未按规定减速行驶给我挂了。</p>
+<p>安全员说了另一个词，“下车”。</p>
+<p>安全员很快啊，飞一般开回起点。</p>
+<p>第二次考试，总体车况没有第一次那么顺利，但是我第一次失误后就记起后半段该怎么走了，有种破釜沉舟，背水一战的感觉，保持着空间位置不足就停下等待的原则，我一次次停在路上，平时教练教的——不行就停路上等，我继续保持着这个原则，回来路上，桥下有段施工的地方，单行道，又恰好有两个工人在路口那作业，我根本不敢往前开，结果我把后面车堵住了，此时安全员说的那句话我现在想起来是含金量最高的，虽然还是那句话，但是我往前开了一点后看后车有足够的位置从我左边进行超车，这时我停在了这个小缺口处，等待社会车辆为我开道，事实证明这是相当明智之举，人走开了，路也通了，车也少了，终于可以加油上回2档30跑前方路段了，这次我吸取上回经验，相当注意公交站的点刹，我直接在公交的点刹处点刹好几遍顺便退回1档，好为前方靠边停车做准备，这是最后一个项目，稳住看远方地上有线可以对，问题不大，往前开，路口前我选择提前停下，我要保证最后没有意外，等终点门口车辆清空，我才往里转，至此，语音播报合格，心头悬着的大石才落地。</p>
+<p>科目三过了，驾驶证进度就可以算得上是90%了，剩下的就科目四了，不过笔试不难，刷题嘛，怎么也是经历过高考洗礼的，这当然没问题啦○( ＾皿＾)っHiahiahia…</p>
+]]></content>
+    <author>
+      <name>Jelly</name>
+    </author>
+    <category term="日常"/>
+    <contributor>
+      <name>Jelly</name>
+    </contributor>
+    <published>2022-01-17T00:00:00.000Z</published>
+    <rights>Copyright by Jelly</rights>
+  </entry>
+  <entry>
+    <title type="text">2021-2022学年第二学期个人学习总结</title>
+    <id>https://blog.jellyqwq.top/note/experience/summary-2021-2022.html</id>
+    <link href="https://blog.jellyqwq.top/note/experience/summary-2021-2022.html"/>
+    <updated>2023-06-20T06:23:25.000Z</updated>
+    <summary type="html"><![CDATA[<div class="hint-container warning">
+<p class="hint-container-title">注意</p>
+<p>这是一篇选修课的结课作业，内容纯属虚构。</p>
+</div>
+<h3> 大学语文</h3>
+<p>当我接触这门课时，我是相当惊讶的，大学居然还要学语文！语文课也是我最摸鱼的课，因为太无聊了小说部分，则完全放开给学生进行小组汇报，这个部分也是我最为印象深刻的，得益于小组内的任务分配，每个人都被分配了一点任务，以至于个人的任务就没那么难，合作可以有效提高办事效率，老师苛刻的作业要求也因团队的力量而变得简单。</p>
+<h3> Python</h3>]]></summary>
+    <content type="html"><![CDATA[<div class="hint-container warning">
+<p class="hint-container-title">注意</p>
+<p>这是一篇选修课的结课作业，内容纯属虚构。</p>
+</div>
+<h3> 大学语文</h3>
+<p>当我接触这门课时，我是相当惊讶的，大学居然还要学语文！语文课也是我最摸鱼的课，因为太无聊了小说部分，则完全放开给学生进行小组汇报，这个部分也是我最为印象深刻的，得益于小组内的任务分配，每个人都被分配了一点任务，以至于个人的任务就没那么难，合作可以有效提高办事效率，老师苛刻的作业要求也因团队的力量而变得简单。</p>
+<h3> Python</h3>
+<p>这个学期的python依然是讲了一些基础的东西，老师大都对着小甲鱼的课程来讲，但是没有小甲鱼讲得有趣，但也算多少学点东西吧，学了点对象相关的知识。尽管自己带电脑去上吧，但感觉也没有多高效率——主要是没找到事情做。想在课上做其他事情真的不容易集中注意力。</p>
+<h3> Linux</h3>
+<p>首先，这门课我确确实实学到点东西的，比如Linux的基本操作和命令，但是吧，教材里的东西和实际的应用还是差了很多。老师常说，平时大家遇到些什么问题都可以上百度去搜，令我印象较深的是其交我们部署服务器的时候总说把防火墙关闭，但我觉得实际上服务器如果不开防火墙是不安全的，但这可能为了教学方便吧。</p>
+<h3> 近现代史</h3>
+<p>历史课的我很少有不摸鱼的，感觉历史很枯燥无味。平时分的组成也相当详细，但因其作业占了大部分比重，再加之作业的难度，让我对历史课产生了疲惫，一心只想完成作业，其作业都是以小组为单位的作业居多，小组内可以合作完成，这一定程度也减轻了作业压力。和语文课旗鼓相当的课后作业，也加快了我适应大学作业的步伐。</p>
+<h3> 信息检索课</h3>
+<p>这是我最不喜欢的课，一节教授信息检索知识的课，老师讲80%~90%的时间，剩下的一点点时间给我们自己去完成这节课的实训，而且上课教室的硬件设备是上古级别，网速也拉，检索起来血压高涨。但是还是了解到了一些论文和期刊的检索网站，以及一点论文的写法。</p>
+<h3> 线性代数</h3>
+<p>线性代数是个不简单的课，但也尽量在学，老师的讲得不错，但是缺乏练习，可能这个是线代的特色吧，基本都在讲理论和性质，我听着感觉有点消化不良，老师说讲到第五章，不带复习，这个算是挺狠的吧，但我觉得问题不大，去把平时的作业拿出来算算，多练习下不挂科是没问题的，而且大学有那么多可支配时间，自己去复习真不是什么难事。</p>
+<h3> 概率论</h3>
+<p>作为本学期的两门高数课之一，这门课还是挺有趣的，在讲理论的同时还给了时间去计算，老师还会板书到黑板上，我也听得比较认真，练习也没落下，我觉得我对概率论的学习情况还是比较满意的。</p>
+<h3> 大学英语</h3>
+<p>经过上个学期的磨练，这次比较熟练了，上课混平时分，回答下问题，读下单词。因为期末考试划分范围，而且详细到考什么单词都给划分出来了，所以也不必那么地担心。每个单元所涉及的期末要考的题型我都会认真的听。但这么看基本就每节课都挺集中注意力的。</p>
+<h3> 总结</h3>
+<p>大学的学习更多的是要靠自己，老师只是引路人，不像高中一样会有人推着你学，老师所教的和实际所用的还是有相当大的鸿沟存在。非专业课需要自己衡量其重要程度，我这个学期的学习不像上个学期那样对什么课都认认真真的上，我不想被老师那句你们交那么贵的学费不好好听课所绑架，我觉得有些课认真听了是真的浪费时间，因此我会选择用来做其他我觉得更有价值的事情，比如学习更多的专业相关的知识，要把时间花在刀刃上，大学四年太短了，一转眼一年要结束了，我不想就止步于此，我想走得更远，留给我的时间，不多了。</p>
+]]></content>
+    <author>
+      <name>Jelly</name>
+    </author>
+    <category term="日常"/>
+    <contributor>
+      <name>Jelly</name>
+    </contributor>
+    <published>2022-05-29T00:00:00.000Z</published>
+    <rights>Copyright by Jelly</rights>
+  </entry>
+  <entry>
+    <title type="text">Fadoop</title>
+    <id>https://blog.jellyqwq.top/code/language/docker/Fadoop.html</id>
+    <link href="https://blog.jellyqwq.top/code/language/docker/Fadoop.html"/>
+    <updated>2023-05-07T16:29:09.000Z</updated>
+    <summary type="html"><![CDATA[<p>docker配置hadoop系统环境</p>
+]]></summary>
+    <content type="html"><![CDATA[<p>docker配置hadoop系统环境</p>
+<!-- more -->
+<h2> Abstract</h2>
+<p>繁琐的虚拟机安装, 环境的配置, 为了让Hadoop部署简单化, 本文使用了docker进行环境搭建</p>
+<p>要为linux设置用户</p>
+<h2> Introduction</h2>
+<h2> References</h2>
+]]></content>
+    <author>
+      <name>Jelly</name>
+    </author>
+    <category term="Docker"/>
+    <contributor>
+      <name>Jelly</name>
+    </contributor>
+    <published>2023-02-28T00:00:00.000Z</published>
+    <rights>Copyright by Jelly</rights>
+  </entry>
+  <entry>
+    <title type="text">Change docker contianers port mapping by config file for Windows</title>
+    <id>https://blog.jellyqwq.top/code/language/docker/change-docker-contianers-port-mapping-by-config-file-for-windows.html</id>
+    <link href="https://blog.jellyqwq.top/code/language/docker/change-docker-contianers-port-mapping-by-config-file-for-windows.html"/>
+    <updated>2023-06-20T06:23:25.000Z</updated>
+    <summary type="html"><![CDATA[<h2> Abstract</h2>
+<p>对于一个已经生成的容器而言, 暂时没有通过docker命令对其自身的端口进行映射的操作, 所以要借助修改配置文件来设置端口映射.</p>
+<h2> Introduction</h2>
+<p>在进行该操作前, 需要将docker关闭, 否则修改将不生效</p>
+<p>在Windows下的docker, 使用的 <em>WSL2(Windows Subsystem for Linux)</em> 来运行docker. 在docker协助下安装完WSL后可以通过访问 <code>\\wsl$</code> 来访问WSL的目录. 这个目录就是WSL的根目录了.</p>]]></summary>
+    <content type="html"><![CDATA[<h2> Abstract</h2>
+<p>对于一个已经生成的容器而言, 暂时没有通过docker命令对其自身的端口进行映射的操作, 所以要借助修改配置文件来设置端口映射.</p>
+<h2> Introduction</h2>
+<p>在进行该操作前, 需要将docker关闭, 否则修改将不生效</p>
+<p>在Windows下的docker, 使用的 <em>WSL2(Windows Subsystem for Linux)</em> 来运行docker. 在docker协助下安装完WSL后可以通过访问 <code>\\wsl$</code> 来访问WSL的目录. 这个目录就是WSL的根目录了.</p>
+<figure><img src="https://cdn.jsdelivr.net/gh/jellyqwq/PictureBed@main/2022/12/image.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>具体的容器目录在: <code>\\wsl$\docker-desktop-data\data\docker\containers</code></p>
+<p>在上述目录中可以看到所有的Containers</p>
+<figure><img src="https://cdn.jsdelivr.net/gh/jellyqwq/PictureBed@main/2022/12/df229045-6a2e-48b3-8ad7-75400bc5dff2.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>选择一个容器, 可以看到有 <code>config.v2.json</code> 和 <code>hostconfig.json</code> 两个配置文件</p>
+<figure><img src="https://cdn.jsdelivr.net/gh/jellyqwq/PictureBed@main/2022/12/dd11bf5c-0033-4bf4-8053-65f4c7a29016.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>分别修改两个配置文件, 使容器的9870端口映射到宿主机(Windows)的19870上.</p>
+<p>为配置文件 <code>hostconfig.json</code> 修改 <em>PortBingings</em> 参数</p>
+<div class="language-json line-numbers-mode" data-ext="json"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>配置文件 <code>config.v2.json</code> 修改 <em>Config.ExposedPorts</em>, 如果在容器初始化的时候没有指定端口, 该值将不存在, 需要手动添加</p>
+<div class="language-json line-numbers-mode" data-ext="json"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2> References</h2>
+<ol>
+<li><a href="https://stackoverflow.com/questions/42250222/where-is-docker-image-location-in-windows-10" target="_blank" rel="noopener noreferrer">https://stackoverflow.com/questions/42250222/where-is-docker-image-location-in-windows-10</a></li>
+<li><a href="https://blog.csdn.net/liu865033503/article/details/100120113" target="_blank" rel="noopener noreferrer">https://blog.csdn.net/liu865033503/article/details/100120113</a></li>
+<li><a href="https://blog.csdn.net/keyiis_sh/article/details/124192764" target="_blank" rel="noopener noreferrer">https://blog.csdn.net/keyiis_sh/article/details/124192764</a></li>
+</ol>
+]]></content>
+    <author>
+      <name>Jelly</name>
+    </author>
+    <category term="Docker"/>
+    <contributor>
+      <name>Jelly</name>
+    </contributor>
+    <published>2022-12-15T00:00:00.000Z</published>
+    <rights>Copyright by Jelly</rights>
+  </entry>
+  <entry>
+    <title type="text">Docker install centos7</title>
+    <id>https://blog.jellyqwq.top/code/language/docker/docker-install-centos7.html</id>
+    <link href="https://blog.jellyqwq.top/code/language/docker/docker-install-centos7.html"/>
+    <updated>2023-05-07T16:29:09.000Z</updated>
+    <summary type="html"><![CDATA[<p>因为VMware装在电脑上会影响虚拟网卡的创建, 于是我尝试使用docker来代替VMware来完成课堂任务</p>
+]]></summary>
+    <content type="html"><![CDATA[<p>因为VMware装在电脑上会影响虚拟网卡的创建, 于是我尝试使用docker来代替VMware来完成课堂任务</p>
+<!-- more -->
+<p>拉取一个<a href="ttps://hub.docker.com">镜像</a>到本地</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3> <a href="https://docs.docker.com/network/network-tutorial-standalone/#use-user-defined-bridge-networks" target="_blank" rel="noopener noreferrer">user defined bridge networks</a></h3>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3> DNS</h3>
+<p>找到宿主机中 /etc/docker/daemon.json(Linux) 或 C:\Users\用户名\.docker\daemon.json(Windows) 添加dns配置, 配置完后一定要对docker进行重启, 不然新创建的容器读取不到更新的配置. 我在window下用vscode对daemon.json编辑后发现新创建的容器不受配置文件的影响, 后来我在docker内置的daemon.json配置的页面里有一个apply&amp;restart的按钮, 我才意识到改完配置后要重启docker</p>
+<p><strong>注意</strong>: 这个daemon.json设置的dns不会显示在容器的 /etc/resolv.conf 文件中</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3> 运行容器</h3>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3> 其他命令</h3>
+<p>宿主机</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>容器</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><hr>
+<h3> 目标</h3>
+<ol>
+<li>创建misaka网络</li>
+<li>将misaka0, misaka1连接misaka网络</li>
+<li>成功ping <a href="http://baidu.com" target="_blank" rel="noopener noreferrer">baidu.com</a></li>
+<li>安装java和zookeeper</li>
+</ol>
+<h3> 配置</h3>
+<table>
+<thead>
+<tr>
+<th>container name</th>
+<th>ip</th>
+<th>hostname</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>misaka0</td>
+<td>192.168.60.10</td>
+<td>misaka0</td>
+</tr>
+<tr>
+<td>misaka1</td>
+<td>192.168.60.11</td>
+<td>misaka1</td>
+</tr>
+<tr>
+<td>misaka2</td>
+<td>192.168.60.12</td>
+<td>misaka2</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h3> require package</h3>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div><hr>
+<h3> ssh服务</h3>
+<p>安装ssh服务</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>修改/etc/ssh/sshd_config文件</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>端口放行和ssh服务的启动</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>生成密钥</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>传输密钥</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>修改密码</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>]]></content>
+    <author>
+      <name>Jelly</name>
+    </author>
+    <category term="Docker"/>
+    <contributor>
+      <name>Jelly</name>
+    </contributor>
+    <published>2022-09-15T00:00:00.000Z</published>
+    <rights>Copyright by Jelly</rights>
+  </entry>
+  <entry>
+    <title type="text">docker install phpmyadmin</title>
+    <id>https://blog.jellyqwq.top/code/language/docker/docker-install-phpmyadmin.html</id>
+    <link href="https://blog.jellyqwq.top/code/language/docker/docker-install-phpmyadmin.html"/>
+    <updated>2023-06-20T06:23:25.000Z</updated>
+    <summary type="html"><![CDATA[<h2> 第一种方法</h2>
+<h3> 创建mysql</h3>
+<p>创建一个名字为 <code>nahida</code> , IP为 <code>192.168.60.20</code> , 内部网络为 <code>misaka</code>, 将 <code>3006</code> 端口映射到宿主机的 <code>11027</code> 端口, 其root用户密码为 <code>123456</code> 的MySQL数据库容器.</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><pre class="language-bash"><code><span class="token function">docker</span> run <span class="token parameter variable">-itd</span> <span class="token parameter variable">--name</span> nahida <span class="token parameter variable">--net</span> misaka <span class="token parameter variable">--ip</span> <span class="token number">192.168</span>.60.20 <span class="token parameter variable">-p</span> <span class="token number">11027</span>:3006 <span class="token parameter variable">-e</span> <span class="token assign-left variable">MYSQL_ROOT_PASSWORD</span><span class="token operator">=</span><span class="token number">123456</span> mysql:latest
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>]]></summary>
+    <content type="html"><![CDATA[<h2> 第一种方法</h2>
+<h3> 创建mysql</h3>
+<p>创建一个名字为 <code>nahida</code> , IP为 <code>192.168.60.20</code> , 内部网络为 <code>misaka</code>, 将 <code>3006</code> 端口映射到宿主机的 <code>11027</code> 端口, 其root用户密码为 <code>123456</code> 的MySQL数据库容器.</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h3> 创建phpmyadmin</h3>
+<p>创建一个IP为 <code>192.168.60.21</code>, 内部网络为 <code>misaka</code>, 将该容器的 <code>80</code> 端口映射给宿主机的 <code>11028</code> 端口, 指定数据库为上述的 <code>nahida</code>, 名字为 <code>phpnahida</code> 的phpmyadmin服务容器.</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h2> 第二种方法</h2>
+<p>对第一种方式的简化版</p>
+<h3> MySQL</h3>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h3> phpmyadmin</h3>
+<p>--link 相比第一种方式的好处在于不用指定MySQL的IP</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h2> Reference</h2>
+<ol>
+<li><a href="https://learnku.com/articles/53392" target="_blank" rel="noopener noreferrer">https://learnku.com/articles/53392</a></li>
+</ol>
+]]></content>
+    <author>
+      <name>Jelly</name>
+    </author>
+    <category term="Docker"/>
+    <contributor>
+      <name>Jelly</name>
+    </contributor>
+    <published>2022-12-20T00:00:00.000Z</published>
+    <rights>Copyright by Jelly</rights>
+  </entry>
+  <entry>
+    <title type="text">Go的基本配置</title>
+    <id>https://blog.jellyqwq.top/code/language/golang/go-mod.html</id>
+    <link href="https://blog.jellyqwq.top/code/language/golang/go-mod.html"/>
+    <updated>2023-05-07T16:29:09.000Z</updated>
+    <summary type="html"><![CDATA[<h3> 2022/8/23</h3>
+<p>去官网下载安装go, 然后在vscode中安装Go插件, 根据提示把其他包给下好</p>
+<p>bot: <a href="https://github.com/go-telegram-bot-api/telegram-bot-api" target="_blank" rel="noopener noreferrer">https://github.com/go-telegram-bot-api/telegram-bot-api</a></p>
+<p>bot文档: <a href="https://go-telegram-bot-api.dev" target="_blank" rel="noopener noreferrer">https://go-telegram-bot-api.dev</a></p>]]></summary>
+    <content type="html"><![CDATA[<h3> 2022/8/23</h3>
+<p>去官网下载安装go, 然后在vscode中安装Go插件, 根据提示把其他包给下好</p>
+<p>bot: <a href="https://github.com/go-telegram-bot-api/telegram-bot-api" target="_blank" rel="noopener noreferrer">https://github.com/go-telegram-bot-api/telegram-bot-api</a></p>
+<p>bot文档: <a href="https://go-telegram-bot-api.dev" target="_blank" rel="noopener noreferrer">https://go-telegram-bot-api.dev</a></p>
+<h4> 知识点</h4>
+<p>Go安装后env默认</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>需要将其打开, 通过命令</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>永久设置, auto和on选一个即可, 临时设置可以使用</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>Go一个目录作为一个module, 在当前目录中使用命令</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>moduleName <a href="http://xn--example-hc5kp88abx7f.com/xxx/abcd" target="_blank" rel="noopener noreferrer">可以用example.com/xxx/abcd</a>, 即使填github的仓库也不会与仓库进行交互的</p>
+<p>为了能在本地使用这个module, 需要使用命令</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>最后用</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>来将所有依赖的包进行下载导入</p>
+<hr>
+<h3> telegram webhook</h3>
+<p>这个需要https, 上传的证书用pem后缀的, 也可以使用自签名证书, 参考<a href="https://www.openssl.org/" target="_blank" rel="noopener noreferrer">openssl</a>, 用如下python脚本完成设置</p>
+<div class="language-python line-numbers-mode" data-ext="py"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>]]></content>
+    <author>
+      <name>Jelly</name>
+    </author>
+    <category term="Golang"/>
+    <contributor>
+      <name>Jelly</name>
+    </contributor>
+    <published>2022-08-23T00:00:00.000Z</published>
+    <rights>Copyright by Jelly</rights>
+  </entry>
+  <entry>
+    <title type="text">Paimon bot 1</title>
+    <id>https://blog.jellyqwq.top/code/language/golang/telegram-bot-Paimon-note-1.html</id>
+    <link href="https://blog.jellyqwq.top/code/language/golang/telegram-bot-Paimon-note-1.html"/>
+    <updated>2023-05-07T16:29:09.000Z</updated>
+    <summary type="html"><![CDATA[<p>这是一个telegram疫情查询内联键盘的开发笔记</p>
+]]></summary>
+    <content type="html"><![CDATA[<p>这是一个telegram疫情查询内联键盘的开发笔记</p>
+<!-- more -->
+<h3> 前言</h3>
+<p>一开始使用卫健委官网的数据，写正则表达式来匹配，但后来发现出现了412错误，似乎，爬虫在无cookie的情况下访问该网站会先返回412错误同时设置3个cookie，然后返回错误的同时也返回了一个带有<code>&lt;Script&gt;</code>标签的DOM文档，这个script标签会请求的JavaScript文件来生成并设置一个cookie，但这个JavaScript文件相当混乱，并不是一般所见的js文件；在尝试使用412错误所返回的三个cookie去请求也不行，因此另寻它法，使用了某讯的<a href="https://api.inews.qq.com/newsqa/v1/query/inner/publish/modules/list?modules=localCityNCOVDataList,diseaseh5Shelf" target="_blank" rel="noopener noreferrer">api</a>，国外疫情<a href="https://api.inews.qq.com/newsqa/v1/automation/modules/list?modules=FAutoforeignList" target="_blank" rel="noopener noreferrer">api</a>。</p>
+<h3> API分析</h3>
+<p><code>https://api.inews.qq.com/newsqa/v1/query/inner/publish/modules/list?modules=&lt;localCityNCOVDataList|diseaseh5Shelf|provinceCompare|nowConfirmStatis&gt;</code></p>
+<table>
+<thead>
+<tr>
+<th>modules</th>
+<th>作用</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>localCityNCOVDataList</td>
+<td>本土疫情城市列表及其详情</td>
+</tr>
+<tr>
+<td>diseaseh5Shelf</td>
+<td>更加详细的数据</td>
+</tr>
+<tr>
+<td>provinceCompare</td>
+<td>是</td>
+</tr>
+<tr>
+<td>nowConfirmStatis</td>
+<td>当前确诊状态</td>
+</tr>
+<tr>
+<td>FAutoCountryConfirmAdd</td>
+<td>各国新增</td>
+</tr>
+<tr>
+<td>WomWorld</td>
+<td>世界统计</td>
+</tr>
+<tr>
+<td>WomAboard</td>
+<td>外国数据</td>
+</tr>
+<tr>
+<td>FAutoforeignList</td>
+<td>外国更具体的数据</td>
+</tr>
+</tbody>
+</table>
+<p><code>https://api.inews.qq.com/newsqa/v1/query/pubished/daily/list?adCode={地区代码}&amp;limit={要多少条数据,一条代表一天}</code></p>
+<h3> 功能实现</h3>
+<p>设计了一个<code>coronavirus</code>模块，调用该模块的<code>MainHandle()</code>函数可以返回一个<code>*Core</code>类型的变量，该变量存储了格式化好的<code>ProvinceInlineKeyborad</code>以及<code>AreaInlineKeyboard</code>，后者是根据是province来查询对应的键盘的。</p>
+<h2> 设计标准</h2>
+<h3> CallbackQuery(回调查询)</h3>
+<p>这部分分为两种回调，在省份页面为<code>virus-页码-地区</code>，在地区页面回调<code>virus-page-查询地区-父级键盘页码</code></p>
+<p>省份页面的第一页的第一个是全国总览按钮，地区页面的第一页的第一个是返回省份页面的按钮，第一页的第二个是该省份的总览按钮。</p>
+<h3> 中国总览数据</h3>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3> 地区总览数据</h3>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3> 地区具体数据</h3>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>]]></content>
+    <author>
+      <name>Jelly</name>
+    </author>
+    <category term="Golang"/>
+    <contributor>
+      <name>Jelly</name>
+    </contributor>
+    <published>2022-11-15T00:00:00.000Z</published>
+    <rights>Copyright by Jelly</rights>
+  </entry>
+  <entry>
+    <title type="text">json结构</title>
+    <id>https://blog.jellyqwq.top/code/language/json/simple-sample.html</id>
+    <link href="https://blog.jellyqwq.top/code/language/json/simple-sample.html"/>
+    <updated>2023-05-07T16:29:09.000Z</updated>
+    <summary type="html"><![CDATA[<h3> 基本概念</h3>
+<p>JSON(JavaScript Object Notation) 是一种轻量级的数据交换格式。 易于人阅读和编写。同时也易于机器解析和生成。 它基于JavaScript Programming Language, Standard ECMA-262 3rd Edition - December 1999的一个子集。 JSON采用完全独立于语言的文本格式，但是也使用了类似于C语言家族的习惯（包括C, C++, C#, Java, JavaScript, Perl, Python等）。 这些特性使JSON成为理想的数据交换语言。</p>
+<h3> 结构</h3>]]></summary>
+    <content type="html"><![CDATA[<h3> 基本概念</h3>
+<p>JSON(JavaScript Object Notation) 是一种轻量级的数据交换格式。 易于人阅读和编写。同时也易于机器解析和生成。 它基于JavaScript Programming Language, Standard ECMA-262 3rd Edition - December 1999的一个子集。 JSON采用完全独立于语言的文本格式，但是也使用了类似于C语言家族的习惯（包括C, C++, C#, Java, JavaScript, Perl, Python等）。 这些特性使JSON成为理想的数据交换语言。</p>
+<h3> 结构</h3>
+<p>通用json主要由以下几种类型构成</p>
+<ol>
+<li>列表</li>
+<li>字典</li>
+<li>数字(十进制整形和浮点型)</li>
+<li>字符串</li>
+</ol>
+<h3> 特性</h3>
+<ol>
+<li>json格式不支持注释, 因此并不适合用作配置文件</li>
+<li>字符串的声明只能使用双引号&gt;"&lt;</li>
+</ol>
+<p>结合具体的实例看-微博热搜api-&gt;<a href="https://weibo.com/ajax/side/hotSearch" target="_blank" rel="noopener noreferrer">https://weibo.com/ajax/side/hotSearch</a><br>
+以下节选了realtime变量的两个, 用&gt;//&lt;表示对该行的解释, 实际json并不可注释</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>在python中, 可以使用json模块来实现python的字典|列表与json结构的转换</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>]]></content>
+    <author>
+      <name>Jelly</name>
+    </author>
+    <category term="JSON"/>
+    <contributor>
+      <name>Jelly</name>
+    </contributor>
+    <published>2022-09-22T00:00:00.000Z</published>
+    <rights>Copyright by Jelly</rights>
+  </entry>
+  <entry>
+    <title type="text">Python多进程的简单实现</title>
+    <id>https://blog.jellyqwq.top/code/language/python/multiprocessing.html</id>
+    <link href="https://blog.jellyqwq.top/code/language/python/multiprocessing.html"/>
+    <updated>2023-05-07T16:29:09.000Z</updated>
+    <summary type="html"><![CDATA[<h1> multiprocessing map()多参数传递</h1>
+<p>首先从模块multiprocessing导入Pool类,实例化并调用。</p>
+<div class="language-python line-numbers-mode" data-ext="py"><pre class="language-python"><code><span class="token keyword">from</span> multiprocessing <span class="token keyword">import</span> Pool
+
+pool <span class="token operator">=</span> Pool<span class="token punctuation">(</span><span class="token punctuation">)</span>
+pool<span class="token punctuation">.</span><span class="token builtin">map</span><span class="token punctuation">(</span>function<span class="token punctuation">,</span> parameter<span class="token punctuation">)</span>
+pool<span class="token punctuation">.</span>close<span class="token punctuation">(</span><span class="token punctuation">)</span>
+pool<span class="token punctuation">.</span>join<span class="token punctuation">(</span><span class="token punctuation">)</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>]]></summary>
+    <content type="html"><![CDATA[<h1> multiprocessing map()多参数传递</h1>
+<p>首先从模块multiprocessing导入Pool类,实例化并调用。</p>
+<div class="language-python line-numbers-mode" data-ext="py"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>function是要需要进行多进程的函数，parameter是该函数的一个参数，但是也是唯一的一个参数，因此，当这个函数存在多个参数时，map就略显疲惫。</p>
+<p>一开始我想到那把多个参数整合到 一个参数里，如丢到 一个列表里再传到函数里，这的确是一种方法。</p>
+<p>但是如果还有当有一个参数是保持不变，但是也要传进去，怎么办，用上述的方法这个列表里会产生很多重复的数据，会降低效率——尽管看不出来。</p>
+<p>现在来解决这个问题，需要从functools模块中导入partial。</p>
+<div class="language-python line-numbers-mode" data-ext="py"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>同时将pool.map部分更换下。</p>
+<div class="language-python line-numbers-mode" data-ext="py"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>iteration就是function函数的第一个参数，一般是一个可迭代对象。</p>
+]]></content>
+    <author>
+      <name>Jelly</name>
+    </author>
+    <category term="Python"/>
+    <contributor>
+      <name>Jelly</name>
+    </contributor>
+    <published>2022-04-06T00:00:00.000Z</published>
+    <rights>Copyright by Jelly</rights>
+  </entry>
+  <entry>
+    <title type="text">requests带列表的data数据提交</title>
+    <id>https://blog.jellyqwq.top/code/language/python/post-form-data.html</id>
+    <link href="https://blog.jellyqwq.top/code/language/python/post-form-data.html"/>
+    <updated>2023-05-07T16:29:09.000Z</updated>
+    <summary type="html"><![CDATA[<h3> 适用情况</h3>
+<p>post请求需要提交form-data的数据，在这个form-data中有如下结构，也就是在浏览器中的payload</p>
+<div class="language-python line-numbers-mode" data-ext="py"><pre class="language-python"><code>xxx<span class="token punctuation">:</span>string
+xxxx<span class="token punctuation">:</span>string
+xdata<span class="token punctuation">:</span><span class="token punctuation">[</span><span class="token punctuation">{</span>k1<span class="token punctuation">:</span>v1<span class="token punctuation">,</span>k2<span class="token punctuation">:</span>v2<span class="token punctuation">,</span><span class="token punctuation">.</span><span class="token punctuation">.</span><span class="token punctuation">.</span><span class="token punctuation">}</span><span class="token punctuation">,</span><span class="token punctuation">{</span>k21<span class="token punctuation">:</span>v21<span class="token punctuation">,</span>k22<span class="token punctuation">:</span>v22<span class="token punctuation">,</span><span class="token punctuation">.</span><span class="token punctuation">.</span><span class="token punctuation">.</span><span class="token punctuation">}</span><span class="token punctuation">,</span><span class="token punctuation">.</span><span class="token punctuation">.</span><span class="token punctuation">.</span><span class="token punctuation">]</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>]]></summary>
+    <content type="html"><![CDATA[<h3> 适用情况</h3>
+<p>post请求需要提交form-data的数据，在这个form-data中有如下结构，也就是在浏览器中的payload</p>
+<div class="language-python line-numbers-mode" data-ext="py"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>当我在requests中提供这个如下data是却请求失败了</p>
+<div class="language-python line-numbers-mode" data-ext="py"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3> 原因&amp;解决办法</h3>
+<p>在使用post方法时会将pdata中的value字符串解析，但是在上述提交的from-data数据pdata中有非字符串value存在，即xdata的数据格式为list/dict，所以需要将xdata的值转化为字符串，使用dumps可以将字典转为json格式的字符串</p>
+<div class="language-python line-numbers-mode" data-ext="py"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>]]></content>
+    <author>
+      <name>Jelly</name>
+    </author>
+    <category term="Python"/>
+    <contributor>
+      <name>Jelly</name>
+    </contributor>
+    <published>2022-04-08T00:00:00.000Z</published>
+    <rights>Copyright by Jelly</rights>
+  </entry>
+  <entry>
+    <title type="text">Python项目打包</title>
+    <id>https://blog.jellyqwq.top/code/language/python/pyinstaller.html</id>
+    <link href="https://blog.jellyqwq.top/code/language/python/pyinstaller.html"/>
+    <updated>2023-05-07T16:29:09.000Z</updated>
+    <summary type="html"><![CDATA[<h2> Pyinstaller</h2>
+<p>当做一个项目需要打包时，不免会遇到将项目打包成可执行文件的问题，这个时候就要用到pyinstaller这个包了</p>
+<p>首先要解决一个重要的问题，python文件在vscode中的项目路径和cmd打开的项目路径时不一样的，当项目中用到IO操作，或者相对路径引用时会出问题——找不到相关文件，因此需要在项目的启动文件加上</p>
+<div class="language-python line-numbers-mode" data-ext="py"><pre class="language-python"><code>os<span class="token punctuation">.</span>chdir<span class="token punctuation">(</span>os<span class="token punctuation">.</span>path<span class="token punctuation">.</span>dirname<span class="token punctuation">(</span>__file__<span class="token punctuation">)</span><span class="token punctuation">)</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>]]></summary>
+    <content type="html"><![CDATA[<h2> Pyinstaller</h2>
+<p>当做一个项目需要打包时，不免会遇到将项目打包成可执行文件的问题，这个时候就要用到pyinstaller这个包了</p>
+<p>首先要解决一个重要的问题，python文件在vscode中的项目路径和cmd打开的项目路径时不一样的，当项目中用到IO操作，或者相对路径引用时会出问题——找不到相关文件，因此需要在项目的启动文件加上</p>
+<div class="language-python line-numbers-mode" data-ext="py"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>表示把当前文件所在的文件夹作为项目的启动路径。**<strong>file</strong>**可以获取当前执行的文件所在的绝对路径，**os.path.dirname(<strong>file</strong>)**可以通过文件绝对路径获取文件所在的文件夹的绝对路径，**os.chdir(path)**而则是将运行目录切换到该文件所在的文件夹下</p>
+<p>但实践后我发现，打包后的exe文件运行目录在C盘下的一个缓存目录里，运行完后会把所生成的文件清除，这导致并不能像运行py那样在当前exe所在下生成文件，需要引入一个冻结路径，创建一个py文件在要打包的文件下</p>
+<div class="language-python line-numbers-mode" data-ext="py"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>当需要IO操作时使用如下代码，其中relative_path为以exe所在文件夹为项目路径的相对路径</p>
+<div class="language-python line-numbers-mode" data-ext="py"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>在打包时需要使用-D参数，如果使用-F生成单文件则无法实现exe所在目录的相对路径读写. (-D是生成可执行项目, -F是生成可执行文件)</p>
+<div class="language-python line-numbers-mode" data-ext="py"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>其中参数-i xx.ico可以为可执行文件指定图标</p>
+<p>另外-n Name可以对可执行项目命名, -h|–help可以获取具体的使用方法</p>
+]]></content>
+    <author>
+      <name>Jelly</name>
+    </author>
+    <category term="Python"/>
+    <contributor>
+      <name>Jelly</name>
+    </contributor>
+    <published>2022-04-08T00:00:00.000Z</published>
+    <rights>Copyright by Jelly</rights>
+  </entry>
+  <entry>
+    <title type="text">Python代理设置</title>
+    <id>https://blog.jellyqwq.top/code/language/python/requests-proxies.html</id>
+    <link href="https://blog.jellyqwq.top/code/language/python/requests-proxies.html"/>
+    <updated>2023-05-07T16:29:09.000Z</updated>
+    <summary type="html"><![CDATA[<h2> Python代理设置</h2>
+<p>requests中代理的写法, 要注意的是proxies字典的value要为字符串</p>
+<div class="language-python line-numbers-mode" data-ext="py"><pre class="language-python"><code>proxies <span class="token operator">=</span> <span class="token punctuation">{</span>
+    <span class="token string">"http"</span><span class="token punctuation">:</span><span class="token string">"host:port"</span><span class="token punctuation">,</span>
+    <span class="token string">"https"</span><span class="token punctuation">:</span><span class="token string">"host:port"</span>
+<span class="token punctuation">}</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>]]></summary>
+    <content type="html"><![CDATA[<h2> Python代理设置</h2>
+<p>requests中代理的写法, 要注意的是proxies字典的value要为字符串</p>
+<div class="language-python line-numbers-mode" data-ext="py"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h4> 栗子</h4>
+<p>使用ip为127.0.0.1, 端口为6868的代理向<a href="https://www.mihoyo.xn--comget-dn7igl06ye1fwq2fppbzy8dm06d8wm" target="_blank" rel="noopener noreferrer">https://www.mihoyo.com发送一个get请求的写法</a></p>
+<div class="language-python line-numbers-mode" data-ext="py"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>设置代理也可以解决requests.exceptions.SSLError的问题</p>
+]]></content>
+    <author>
+      <name>Jelly</name>
+    </author>
+    <category term="Python"/>
+    <contributor>
+      <name>Jelly</name>
+    </contributor>
+    <published>2021-12-06T00:00:00.000Z</published>
+    <rights>Copyright by Jelly</rights>
+  </entry>
+  <entry>
+    <title type="text">wenku8小说收集</title>
+    <id>https://blog.jellyqwq.top/code/language/python/wenku8-clone.html</id>
+    <link href="https://blog.jellyqwq.top/code/language/python/wenku8-clone.html"/>
+    <updated>2023-05-07T16:29:09.000Z</updated>
+    <summary type="html"><![CDATA[<p>我是个收集党，对东西有很强的占有欲，想把喜欢的东西保存下来。</p>
+<p>《魔女之旅》是一部我很喜欢的番剧，因为番剧，我知道了这是一系列丛书，因此我想把它从wenku网站给转移到我的GitHub上观看。</p>
+<p>初步构想是以markdown语法写入GitHub，这样就可以直接看了。</p>
+<p>那么，需要分为网页请求，获取所有的分目录以及所对应的网址，在对这些网址的信息，即小说的具体内容读出。</p>
+<p>写着写着就不止于把《魔女之旅》下下来，这个文库网站说了停站，但还是有不少的小说在网站上可以通过url访问到，大概有1000套小说左右，分布在**<a href="https://www.wenku8.net/novel/2/(2000~3000)/index.htm**%EF%BC%8C%E6%89%80%E4%BB%A5%E6%88%91%E5%B0%B1%E9%A1%BA%E6%89%8B%E5%93%A6%E6%8A%8A%E8%BF%99%E6%95%B4%E4%B8%AA%E7%BD%91%E7%AB%99%E7%9A%84%E6%89%80%E6%9C%89%E5%B0%8F%E8%AF%B4%E4%B8%8B%E8%BD%BD%E7%84%B6%E5%90%8E%E5%86%99%E6%88%90md%E6%96%87%E4%BB%B6%E4%BC%A0%E5%88%B0GitHub%E4%B8%8A%EF%BC%8C%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E5%B0%8F%E8%AF%B4%E5%BA%93%EF%BC%8C%E8%BF%99%E6%98%AF%E6%88%91%E6%90%AD%E5%BB%BA%E7%94%B5%E5%AD%90%E5%9B%BE%E4%B9%A6%E9%A6%86%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%A1%B9%E7%9B%AE%E3%80%82" target="_blank" rel="noopener noreferrer">https://www.wenku8.net/novel/2/(2000~3000)/index.htm**，所以我就顺手哦把这整个网站的所有小说下载然后写成md文件传到GitHub上，作为一个小说库，这是我搭建电子图书馆的第一个项目。</a></p>]]></summary>
+    <content type="html"><![CDATA[<p>我是个收集党，对东西有很强的占有欲，想把喜欢的东西保存下来。</p>
+<p>《魔女之旅》是一部我很喜欢的番剧，因为番剧，我知道了这是一系列丛书，因此我想把它从wenku网站给转移到我的GitHub上观看。</p>
+<p>初步构想是以markdown语法写入GitHub，这样就可以直接看了。</p>
+<p>那么，需要分为网页请求，获取所有的分目录以及所对应的网址，在对这些网址的信息，即小说的具体内容读出。</p>
+<p>写着写着就不止于把《魔女之旅》下下来，这个文库网站说了停站，但还是有不少的小说在网站上可以通过url访问到，大概有1000套小说左右，分布在**<a href="https://www.wenku8.net/novel/2/(2000~3000)/index.htm**%EF%BC%8C%E6%89%80%E4%BB%A5%E6%88%91%E5%B0%B1%E9%A1%BA%E6%89%8B%E5%93%A6%E6%8A%8A%E8%BF%99%E6%95%B4%E4%B8%AA%E7%BD%91%E7%AB%99%E7%9A%84%E6%89%80%E6%9C%89%E5%B0%8F%E8%AF%B4%E4%B8%8B%E8%BD%BD%E7%84%B6%E5%90%8E%E5%86%99%E6%88%90md%E6%96%87%E4%BB%B6%E4%BC%A0%E5%88%B0GitHub%E4%B8%8A%EF%BC%8C%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E5%B0%8F%E8%AF%B4%E5%BA%93%EF%BC%8C%E8%BF%99%E6%98%AF%E6%88%91%E6%90%AD%E5%BB%BA%E7%94%B5%E5%AD%90%E5%9B%BE%E4%B9%A6%E9%A6%86%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%A1%B9%E7%9B%AE%E3%80%82" target="_blank" rel="noopener noreferrer">https://www.wenku8.net/novel/2/(2000~3000)/index.htm**，所以我就顺手哦把这整个网站的所有小说下载然后写成md文件传到GitHub上，作为一个小说库，这是我搭建电子图书馆的第一个项目。</a></p>
+<p>可以单本小说下载，也可以通过小说的网页序号下载。</p>
+<p>底下注释掉的部分是用来遍历下载整个wenku8的所有小说和生成md索引的，但是用多进程很鸡肋，下着下者会出现卡死，这个问题未被解决。</p>
+<p>项目代码:</p>
+<ul>
+<li><a href="https://github.com/jellyqwq/novel/blob/main/main_index.py" target="_blank" rel="noopener noreferrer">main_index.py</a></li>
+<li><a href="https://github.com/jellyqwq/novel/blob/main/novel_list.py" target="_blank" rel="noopener noreferrer">novel_list.py</a></li>
+<li><a href="https://github.com/jellyqwq/novel/blob/main/wenku8.py" target="_blank" rel="noopener noreferrer">wenku8.py</a></li>
+<li><a href="https://github.com/jellyqwq/novel/blob/main/wenku8_novel_list.py" target="_blank" rel="noopener noreferrer">wenku8_novel_list.py</a></li>
+<li><a href="https://github.com/jellyqwq/novel/blob/main/wenku8_novel_list_save.py" target="_blank" rel="noopener noreferrer">wenku8_novel_list_save.py</a></li>
+</ul>
+<p>小说链接: <a href="https://github.com/jellyqwq/novel#novel" target="_blank" rel="noopener noreferrer">https://github.com/jellyqwq/novel#novel</a></p>
+]]></content>
+    <author>
+      <name>Jelly</name>
+    </author>
+    <category term="Python"/>
+    <contributor>
+      <name>Jelly</name>
+    </contributor>
+    <published>2022-04-11T00:00:00.000Z</published>
+    <rights>Copyright by Jelly</rights>
+  </entry>
+  <entry>
+    <title type="text">Hadoop setup</title>
+    <id>https://blog.jellyqwq.top/code/system/hadoop/hadoop-setup.html</id>
+    <link href="https://blog.jellyqwq.top/code/system/hadoop/hadoop-setup.html"/>
+    <updated>2023-06-20T06:23:25.000Z</updated>
+    <summary type="html"><![CDATA[<h3> 前言</h3>
+<p>本文记录了hadoop集群安装的相应细节, 需要您具备一定的Linux命令常识, 同时, 本文的运行环境为docker centos7, 基于<a href="/code/language/docker/docker-install-centos7.html" target="blank">docker-install-centos7</a></p>
+<h3> 安装java</h3>
+<div class="language-bash line-numbers-mode" data-ext="sh"><pre class="language-bash"><code>
+<span class="token comment"># 将java的压缩包从宿主机上挂载的目录上复制过来</span>
+<span class="token function">cp</span> ~/package/jdk-8u161-linux-x64.tar.gz ~/
+
+<span class="token comment"># 解压</span>
+<span class="token comment"># [-x] 解压</span>
+<span class="token comment"># [-z] 有gzip属性的</span>
+<span class="token comment"># [-v] 显示过程</span>
+<span class="token comment"># [-f] 最后一个参数, 后接档案</span>
+<span class="token comment"># [-C] 指定目标目录</span>
+<span class="token function">tar</span> <span class="token parameter variable">-xzvf</span> ~/jdk-8u161-linux-x64.tar.gz ~C ~/
+
+<span class="token comment"># 重命名解压目录</span>
+<span class="token function">mv</span> ~/jdk1.8.0_161 ~/java
+
+<span class="token comment"># 为java的bin目录和java包所在目录追加到环境变量</span>
+<span class="token builtin class-name">echo</span> <span class="token string">'export PATH=$PATH:~/java/bin'</span><span class="token operator">&gt;&gt;</span>~/.bashrc
+<span class="token builtin class-name">echo</span> <span class="token string">'export JAVA_HOME=~/java'</span><span class="token operator">&gt;&gt;</span>~/.bashrc
+
+<span class="token comment"># 刷新环境变量</span>
+<span class="token builtin class-name">source</span> ~/.bashrc
+
+<span class="token comment"># 使用java的命令查看是否配置成功</span>
+jps
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>]]></summary>
+    <content type="html"><![CDATA[<h3> 前言</h3>
+<p>本文记录了hadoop集群安装的相应细节, 需要您具备一定的Linux命令常识, 同时, 本文的运行环境为docker centos7, 基于<a href="/code/language/docker/docker-install-centos7.html" target="blank">docker-install-centos7</a></p>
+<h3> 安装java</h3>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><hr>
+<h3> 安装zookeeper</h3>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3> 配置</h3>
+<p>在zookeeper下创建目录data</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>备份并修改zookeeper配置文件</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>在data目录下创建文件myid, 并写入一个id, 由于我的hostname是<strong>misaka+number</strong>, 所以直接使用number作为id</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div><h3> 使用</h3>
+<p>启动 &amp; 关闭</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h3> zookeeper作用</h3>
+<ol>
+<li>zookeeper动态决定由哪台机器对外, 提供统一的资源服务</li>
+<li>资源的动态同步</li>
+</ol>
+<p>参考资料: <a href="https://segmentfault.com/a/1190000017893271" target="_blank" rel="noopener noreferrer">Zookeeper 集群安装配置</a></p>
+<hr>
+<h3> hadoop安装</h3>
+<ol>
+<li>解压</li>
+<li>配置bin和sbin到环境变量~/.bashrc</li>
+<li>配置文件~/hadoop/etc/hadoop/core-site.xml</li>
+</ol>
+<div class="language-xml line-numbers-mode" data-ext="xml"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><ol start="4">
+<li>随后在~/hadoop下创建目录temp, 目录data/datanode, 目录data/namenode</li>
+<li>配置文件 <code>~/hadoop/etc/hadoop/hdfs-site.xml</code> , <code>dfs.nodename.http.address</code> 参数是用于开启webUI的, <code>dfs.replication</code> 是用于设置备份数的</li>
+</ol>
+<div class="language-xml line-numbers-mode" data-ext="xml"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><ol start="6">
+<li>初始化配置文件</li>
+</ol>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><ol start="7">
+<li>启动Hadoop, 使用root启动时请看<a href="#root%E5%90%AF%E5%8A%A8hadoop">root启动hadoop</a></li>
+</ol>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><ol start="8">
+<li>关闭Hadoop可使用 <code>stop-dfs.sh</code> 或 <code>stop-all.sh</code> 命令</li>
+</ol>
+<hr>
+<h3> root启动hadoop</h3>
+<p><a href="http://xn--start-dfs-kd5p.sh" target="_blank" rel="noopener noreferrer">在start-dfs.sh</a>，stop-dfs.sh两个文件的头部填加以下参数</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p><a href="http://xn--start-yarn-eh3r.sh" target="_blank" rel="noopener noreferrer">在start-yarn.sh</a>，stop-yarn.sh两个文件的头部添加以下参数</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><hr>
+<h3> 启动hadoop可能会出现的错误</h3>
+<ol>
+<li>如下报错</li>
+</ol>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>请注意, 要对目标机器配置ssh免密, 即使是本机也要</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><hr>
+<h3> FAQ</h3>
+<p><em>A: SHUTDOWN_MSG: Shutting down NameNode at hostname/ip</em></p>
+<p>Q: 配置初始化完成后就会显示, 一般情况下没有错误, 在上方的INFO中找到common.Storage的输出可以看到末尾有successfully formatted表示初始化成功</p>
+<p><em>A: yum下载失败</em></p>
+<p>Q: <code>ping baidu.com</code> 和 <code>ping 百度的IP</code>, 如果域名ping不通就修改dns, 在<code>/etc/resolv.conf</code>中, 添加</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div><hr>
+]]></content>
+    <author>
+      <name>Jelly</name>
+    </author>
+    <category term="Hadoop"/>
+    <contributor>
+      <name>Jelly</name>
+    </contributor>
+    <published>2022-12-15T00:00:00.000Z</published>
+    <rights>Copyright by Jelly</rights>
+  </entry>
+  <entry>
+    <title type="text">Hadoop upload file by java</title>
+    <id>https://blog.jellyqwq.top/code/system/hadoop/hadoop-upload-file-by-java.html</id>
+    <link href="https://blog.jellyqwq.top/code/system/hadoop/hadoop-upload-file-by-java.html"/>
+    <updated>2023-05-07T16:29:09.000Z</updated>
+    <summary type="html"><![CDATA[<p>在之前的hadoop配置基础上, 现在来做一个上传文件到hadoop系统的java程序</p>
+]]></summary>
+    <content type="html"><![CDATA[<p>在之前的hadoop配置基础上, 现在来做一个上传文件到hadoop系统的java程序</p>
+<!-- more -->
+<p>之前的教程使用的 <code>~/hadoop</code> 作为hadoop的根目录似乎有点不直观, 现在在 <code>~/.bashrc</code> 里增加 hadoop 根目录作为 <code>HADOOP_HOME</code>.</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>可以先创建一个用于存放程序的目录</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>然后创建一个 <code>UploadFile.java</code> 文件</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>UploadFile.java的内容为</p>
+<div class="language-java line-numbers-mode" data-ext="java"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>然后编译这段代码</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>经过上一个命令后, 会产生一个 <code>UploadFile.class</code> 文件, 接着对UploadFile进行打包</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>上述过程就把一会要用的程序准备好了, 接下来要在hadoop系统内创建一个 <code>tmp</code> 目录</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>然后再创建一个 <code>access.log</code> 文件</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>接着在上述 <code>access.log</code> 文件所在的目录里运行我们打包好的程序, 执行成功无输出</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>最后查看是否上传成功</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>]]></content>
+    <author>
+      <name>Jelly</name>
+    </author>
+    <category term="Hadoop"/>
+    <contributor>
+      <name>Jelly</name>
+    </contributor>
+    <published>2022-12-20T00:00:00.000Z</published>
+    <rights>Copyright by Jelly</rights>
+  </entry>
+  <entry>
+    <title type="text">Some hadoop commands</title>
+    <id>https://blog.jellyqwq.top/code/system/hadoop/some-hadoop-command.html</id>
+    <link href="https://blog.jellyqwq.top/code/system/hadoop/some-hadoop-command.html"/>
+    <updated>2023-06-20T06:23:25.000Z</updated>
+    <summary type="html"><![CDATA[<h2> Hadoop相关命令的使用</h2>
+<p>hadoop系统可继承一定的Linux系统命令, 以命令 <code>ls</code> 为例, 在hadoop系统中则需使用 <code>hadoop dfs -ls</code>.</p>
+<p>特别的, hadoop有一对专门用于上传下载的命令, <code>hadoop dfs -put</code> 和 <code>hadoop dfs -get</code>.</p>
+<p>创建一个 <code>speech.txt</code> 文件, 其内容为</p>
+<div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>There is no mountain we cannot climb
+There is no summit we cannot reach
+There is no challenge we cannot meet
+There is no victory we cannot have
+We will not bend
+We will not break
+We will not yield
+We will never give in
+We will never give up
+And we will never ever back down
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>]]></summary>
+    <content type="html"><![CDATA[<h2> Hadoop相关命令的使用</h2>
+<p>hadoop系统可继承一定的Linux系统命令, 以命令 <code>ls</code> 为例, 在hadoop系统中则需使用 <code>hadoop dfs -ls</code>.</p>
+<p>特别的, hadoop有一对专门用于上传下载的命令, <code>hadoop dfs -put</code> 和 <code>hadoop dfs -get</code>.</p>
+<p>创建一个 <code>speech.txt</code> 文件, 其内容为</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>我将其放在了hadoop目录下 <code>~/hadoop/speech.txt</code></p>
+<figure><img src="https://cdn.jsdelivr.net/gh/jellyqwq/PictureBed@main/2022/12/8cd77591-a5f1-4dab-b76d-b343bd80edfb.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>将其传到hadoop系统的根目录下 <code>/</code></p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><figure><img src="https://cdn.jsdelivr.net/gh/jellyqwq/PictureBed@main/2022/12/a0bcc1e1-086f-4b10-aeba-0cff3fa23377.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>使用hadoop官方示例 <code>hadoop-mapreduce-examples-*.*.*.jar</code> 统计 <code>speech.txt</code> 的单词数量</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><figure><img src="https://cdn.jsdelivr.net/gh/jellyqwq/PictureBed@main/2022/12/d4a7448d-188a-4c80-ab34-a29bfed1ea3e.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>查看统计结果</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><figure><img src="https://cdn.jsdelivr.net/gh/jellyqwq/PictureBed@main/2022/12/d2ae5a28-01a9-455e-bad5-04f96c8494c2.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h3> webUI</h3>
+<p>我这里使用了docker的端口映射, 将9870端口映射到了我的windows宿主机上的19870端口.</p>
+<figure><img src="https://cdn.jsdelivr.net/gh/jellyqwq/PictureBed@main/2022/12/9571978e-178a-4be9-a98d-83446d539736.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+]]></content>
+    <author>
+      <name>Jelly</name>
+    </author>
+    <category term="Hadoop"/>
+    <contributor>
+      <name>Jelly</name>
+    </contributor>
+    <published>2022-12-15T00:00:00.000Z</published>
+    <rights>Copyright by Jelly</rights>
+  </entry>
+  <entry>
+    <title type="text">Xbox Live登录失败的解决办法</title>
+    <id>https://blog.jellyqwq.top/code/system/windows/xbox-live-login.html</id>
+    <link href="https://blog.jellyqwq.top/code/system/windows/xbox-live-login.html"/>
+    <updated>2023-05-07T16:29:09.000Z</updated>
+    <summary type="html"><![CDATA[<p>在steam登录时会遇到Xbox Live登录没反应的问题, 这是因为Xbox Live服务默认是手动开启, 默认关闭的, 只要把这个服务设置成自动启动就好了</p>
+<p>关于Windows下的服务修改可以看微软的<a href="https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/sc-config" target="_blank" rel="noopener noreferrer">官方文档</a>, 给出了如下命令</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><pre class="language-bash"><code>sc.exe <span class="token punctuation">[</span><span class="token operator">&lt;</span>servername<span class="token operator">&gt;</span><span class="token punctuation">]</span> config <span class="token punctuation">[</span><span class="token operator">&lt;</span>servicename<span class="token operator">&gt;</span><span class="token punctuation">]</span> <span class="token punctuation">[</span>type<span class="token operator">=</span> <span class="token punctuation">{</span>own <span class="token operator">|</span> share <span class="token operator">|</span> kernel <span class="token operator">|</span> filesys <span class="token operator">|</span> rec <span class="token operator">|</span> adapt <span class="token operator">|</span> interact <span class="token assign-left variable">type</span><span class="token operator">=</span> <span class="token punctuation">{</span>own <span class="token operator">|</span> share<span class="token punctuation">}</span><span class="token punctuation">}</span><span class="token punctuation">]</span> <span class="token punctuation">[</span>start<span class="token operator">=</span> <span class="token punctuation">{</span>boot <span class="token operator">|</span> system <span class="token operator">|</span> auto <span class="token operator">|</span> demand <span class="token operator">|</span> disabled <span class="token operator">|</span> delayed-auto<span class="token punctuation">}</span><span class="token punctuation">]</span> <span class="token punctuation">[</span>error<span class="token operator">=</span> <span class="token punctuation">{</span>normal <span class="token operator">|</span> severe <span class="token operator">|</span> critical <span class="token operator">|</span> ignore<span class="token punctuation">}</span><span class="token punctuation">]</span> <span class="token punctuation">[</span>binpath<span class="token operator">=</span> <span class="token operator">&lt;</span>binarypathname<span class="token operator">&gt;</span><span class="token punctuation">]</span> <span class="token punctuation">[</span>group<span class="token operator">=</span> <span class="token operator">&lt;</span>loadordergroup<span class="token operator">&gt;</span><span class="token punctuation">]</span> <span class="token punctuation">[</span>tag<span class="token operator">=</span> <span class="token punctuation">{</span>yes <span class="token operator">|</span> no<span class="token punctuation">}</span><span class="token punctuation">]</span> <span class="token punctuation">[</span>depend<span class="token operator">=</span> <span class="token operator">&lt;</span>dependencies<span class="token operator">&gt;</span><span class="token punctuation">]</span> <span class="token punctuation">[</span>obj<span class="token operator">=</span> <span class="token punctuation">{</span><span class="token operator">&lt;</span>accountname<span class="token operator">&gt;</span> <span class="token operator">|</span> <span class="token operator">&lt;</span>objectname<span class="token operator">&gt;</span><span class="token punctuation">}</span><span class="token punctuation">]</span> <span class="token punctuation">[</span>displayname<span class="token operator">=</span> <span class="token operator">&lt;</span>displayname<span class="token operator">&gt;</span><span class="token punctuation">]</span> <span class="token punctuation">[</span>password<span class="token operator">=</span> <span class="token operator">&lt;</span>password<span class="token operator">&gt;</span><span class="token punctuation">]</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>]]></summary>
+    <content type="html"><![CDATA[<p>在steam登录时会遇到Xbox Live登录没反应的问题, 这是因为Xbox Live服务默认是手动开启, 默认关闭的, 只要把这个服务设置成自动启动就好了</p>
+<p>关于Windows下的服务修改可以看微软的<a href="https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/sc-config" target="_blank" rel="noopener noreferrer">官方文档</a>, 给出了如下命令</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>通过<code>win+R</code>打开<code>cmd</code>后, 输入<code>services.msc</code>打开服务, 找到<code>Xbox Live 游戏保存</code>后查看属性发现其被设置为手动打开, 这个手动并不是指Xbox Live给你用的时候打开, 你不开他就不会启动. 所以要设置为自动</p>
+<p><code>Xbox Live 游戏保存</code>查看属性可以得知其<code>servicename((本地)服务名称)</code>为<code>XblGameSave</code></p>
+<p>用命令<code>sc qc XblGameSave</code>查看得到</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>不难看出, <code>START_TYPE</code>为<code>DEMAND_START</code>, 因此需要改下, 如果手动修改的话只是临时的, 再次启动就恢复原样了, 所以需要用<code>config</code>关键字来永久设置</p>
+<p>通过命令<code>sc config XblGameSave start= auto</code>即可将游戏保存服务设置为自启动.</p>
+<p>然后把上面这个命令写到.bat文件里, 方便好朋友修改电脑上的这项服务, 由于重新设置后并不会立刻启动该服务, 还需要借助命令<code>sc start XblGameSave</code>来立刻启动该服务.</p>
+<p>实测发现要想他在一个文件内完成启动加设置, 需要运行两遍, 且需要管理员权限, 所以bat文件为</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>]]></content>
+    <author>
+      <name>Jelly</name>
+    </author>
+    <category term="Batchfile"/>
+    <contributor>
+      <name>Jelly</name>
+    </contributor>
+    <published>2022-08-15T00:00:00.000Z</published>
+    <rights>Copyright by Jelly</rights>
+  </entry>
+</feed>
