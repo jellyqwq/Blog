@@ -7,17 +7,13 @@ title: 博客主页
 bgImage: /BL.jpg
 heroText: 果冻の博客
 heroFullScreen: false
-tagline: 看!是bug
+# tagline: 看!是bug
 projects:
   - icon: friend
     name: 浩的博客
     desc: 记录我平凡但不甘的生活
     link: https://ghl.info
 
-  - icon: friend
-    name: Phyllali's blog
-    desc: 叶子
-    link: https://blog.phyllali.club
 #   - icon: project
 #     name: 项目名称
 #     desc: 项目详细描述
