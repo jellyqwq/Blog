@@ -26,10 +26,10 @@ export default hopeTheme({
   // docsDir: "src",
 
   blog: {
-    description: "向着星辰与深渊",
-    avatar : "/GanYu.jpg",
+    description: "mortis 👐 🎸",
+    avatar : "/avatar.jpg",
     roundAvatar: true,
-    name: "Jelly",
+    name: "mutsumi🥒",
     intro: "/intro",
 
     medias: {

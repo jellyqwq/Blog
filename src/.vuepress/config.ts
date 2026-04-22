@@ -6,8 +6,8 @@ export default defineUserConfig({
   base: "/",
 
   lang: "zh-CN",
-  title: "果冻の博客",
-  description: "看!是bug",
+  title: "Mutsumi's Blog ",
+  description: "",
    
   theme,
   plugins: [
