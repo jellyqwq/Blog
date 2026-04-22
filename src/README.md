@@ -5,9 +5,9 @@ icon: home
 title: 博客主页
 # heroImage: /logo.png
 bgImage: /BL.jpg
-heroText: 果冻の博客
+heroText: Mutsumi's Blog
 heroFullScreen: false
-# tagline: 看!是bug
+tagline: バンドが楽しいなんて、思ったこと一度もない
 projects:
   - icon: friend
     name: 浩的博客

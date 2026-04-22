@@ -1,11 +1,19 @@
 // place your custom styles here
-// .blog-hero {
-//     h1 {
-//         color: #000000cc;
-//     }
 
-//     .description {
-//         color: #000000cc;
-//         font-weight: 550;
-//     }
-// }
+.vp-blog-hero-title {
+  background: linear-gradient(90deg, #ff4d6d, #5cffc9);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: transparent;
+}
+
+.vp-blog-hero-description {
+  background: linear-gradient(90deg, rgba(255, 125, 150, 0.92), rgba(140, 255, 225, 0.9));
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: transparent;
+  font-weight: 600;
+  text-shadow: 0 2px 12px rgba(0, 0, 0, 0.18);
+}
