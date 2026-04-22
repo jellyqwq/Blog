@@ -8,11 +8,11 @@ bgImage: /BL.jpg
 heroText: Mutsumi's Blog
 heroFullScreen: false
 tagline: バンドが楽しいなんて、思ったこと一度もない
-projects:
-  - icon: friend
-    name: 浩的博客
-    desc: 记录我平凡但不甘的生活
-    link: https://ghl.info
+# projects:
+#   - icon: friend
+#     name: 浩的博客
+#     desc: 记录我平凡但不甘的生活
+#     link: https://ghl.info
 
 #   - icon: project
 #     name: 项目名称
