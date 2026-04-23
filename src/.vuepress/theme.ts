@@ -16,7 +16,7 @@ export default hopeTheme({
 
   iconAssets: "iconfont",
 
-  logo: "/cucumber-note.svg",
+  logo: "/logo.svg",
 
   repo: "https://github.com/jellyqwq/Blog",
 

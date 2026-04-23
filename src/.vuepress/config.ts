@@ -12,8 +12,8 @@ export default defineUserConfig({
   theme,
   plugins: [
     docsearchPlugin({
-      appId: "VGDY5M6H73",
-      apiKey: "2df5e90a03de693c73f8a3286d8ca07e",
+      appId: "XG6T20O6V1",
+      apiKey: "8e85ed2718638ea7ad9b9f6e2c7890aa",
       indexName: "jellyqwq",
       placeholder: "搜索文档",
       translations: {
