@@ -2,7 +2,7 @@
 home: true
 layout: BlogHome
 icon: home
-title: 博客主页
+title: BlogHome
 # heroImage: /logo.png
 bgImage: /BL.jpg
 heroText: Mutsumi's Blog

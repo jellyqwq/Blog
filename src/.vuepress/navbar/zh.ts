@@ -15,7 +15,7 @@ export const zhNavbar = navbar([
       {
         text: "boom",
         icon: "storage",
-        link: "https://boomb.cn/",
+        link: "https://boomb2.netlify.app/",
       },
     ],
   },
