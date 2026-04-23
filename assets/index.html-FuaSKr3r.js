@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-x3n3nnut.js";import{o,c as t,b as c,d as n}from"./app-hi0S5xjr.js";const r={},s=n("p",null,"这里存放的是已经停止维护、但仍保留记录价值的项目文章。",-1);function _(a,l){return o(),t("div",null,[s,c(" more ")])}const i=e(r,[["render",_],["__file","index.html.vue"]]);export{i as default};
