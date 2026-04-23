@@ -16,7 +16,7 @@ export default hopeTheme({
 
   iconAssets: "iconfont",
 
-  logo: "/logo.png",
+  logo: "/assets/icon/cucumber.svg",
 
   repo: "https://github.com/jellyqwq/Blog",
 
@@ -27,7 +27,7 @@ export default hopeTheme({
 
   blog: {
     description: "mortis 👐 🎸",
-    avatar : "/avatar.jpg",
+    avatar : "/assets/icon/avatar.jpg",
     roundAvatar: true,
     name: "mutsumi🥒",
     intro: "/intro",

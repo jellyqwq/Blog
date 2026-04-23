@@ -3,8 +3,8 @@ home: true
 layout: BlogHome
 icon: home
 title: BlogHome
-# heroImage: /logo.png
-bgImage: /BL.jpg
+heroImage: /assets/homepage-background.jpg
+# bgImage: /assets/homepage-background.jpg
 heroText: Mutsumi's Blog
 heroFullScreen: false
 tagline: バンドが楽しいなんて、思ったこと一度もない
