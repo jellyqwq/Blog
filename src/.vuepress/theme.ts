@@ -22,8 +22,8 @@ export default hopeTheme({
 
   // pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
 
-  // 博客一般不需要文档
-  // docsDir: "src",
+  // GitHub 编辑链接需要仓库内的源码目录前缀
+  docsDir: "src",
 
   blog: {
     description: "mortis 👐 🎸",
