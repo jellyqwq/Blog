@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-x3n3nnut.js";import{o as t,c as o,a as _}from"./app-zUu1JOnm.js";const c={},s=_("p",null,"这是测试图片",-1),n=[s];function r(a,l){return t(),o("div",null,n)}const m=e(c,[["render",r],["__file","2026-05-07.html.vue"]]);export{m as default};
