@@ -30,7 +30,7 @@ export default hopeTheme({
     avatar : "/assets/icon/avatar.jpg",
     roundAvatar: true,
     name: "mutsumi🥒",
-    intro: "/intro",
+    intro: "/about/",
 
     medias: {
       BiliBili: "https://space.bilibili.com/496306493",

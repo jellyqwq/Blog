@@ -1,10 +1,6 @@
 ---
 title: Paimon telegram bot
-icon: page
-order: 1
-author: Jelly
 date: 2022-10-26
-sticky: false
 article: false
 ---
 
